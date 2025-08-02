@@ -64,7 +64,7 @@
                         <div class="col-md-3">
                             <div class="card bg-white bg-opacity-90 border-0">
                                 <div class="card-body text-center">
-                                    <h3 class="text-success mb-1" id="total-bikes">116</h3>
+                                    <h3 class="text-success mb-1" id="total-bikes">122</h3>
                                     <small class="text-muted">Vélos</small>
                                 </div>
                             </div>
@@ -72,7 +72,7 @@
                         <div class="col-md-3">
                             <div class="card bg-white bg-opacity-90 border-0">
                                 <div class="card-body text-center">
-                                    <h3 class="text-info mb-1" id="occupation-rate">41.1%</h3>
+                                    <h3 class="text-info mb-1" id="occupation-rate">43.9%</h3>
                                     <small class="text-muted">Occupation</small>
                                 </div>
                             </div>

@@ -2,21 +2,21 @@
   "general": {
     "total_stations": 20,
     "working_stations": 20,
-    "total_bikes": "116",
+    "total_bikes": "122",
     "total_capacity": "271",
-    "average_occupancy": 0.43944444444444447,
-    "median_occupancy": 0.39583333333333337
+    "average_occupancy": 0.4616898148148148,
+    "median_occupancy": 0.46875
   },
   "distribution": {
     "bikes_per_station": {
-      "mean": 5.8,
-      "std": 3.45801890348247,
-      "min": "2",
-      "max": "13",
+      "mean": 6.1,
+      "std": 3.740250484153505,
+      "min": "1",
+      "max": "15",
       "quartiles": {
         "0.25": 3.0,
         "0.5": 5.5,
-        "0.75": 8.25
+        "0.75": 8.0
       }
     },
     "capacity_per_station": {
@@ -37,37 +37,37 @@
       "status": "working",
       "latitude": 43.616742,
       "longitude": 3.87998,
-      "last_update": "2025-08-02T17:44:16.000Z",
+      "last_update": "2025-08-02T21:15:19.000Z",
       "occupancy_rate": 1.0,
       "utilization_rate": 1.0
     },
     "least_occupied": {
-      "id": "urn:ngsi-ld:station:002",
-      "address": "Comédie",
+      "id": "urn:ngsi-ld:station:008",
+      "address": "Halles Castellane",
       "locality": "Montpellier",
-      "available_bikes": 3,
-      "free_slots": 17,
-      "total_slots": 20,
+      "available_bikes": 1,
+      "free_slots": 11,
+      "total_slots": 12,
       "status": "working",
-      "latitude": 43.608148,
-      "longitude": 3.878778,
-      "last_update": "2025-08-02T17:44:16.000Z",
-      "occupancy_rate": 0.15,
-      "utilization_rate": 0.15
+      "latitude": 43.609935,
+      "longitude": 3.877208,
+      "last_update": "2025-08-02T21:15:19.000Z",
+      "occupancy_rate": 0.08333333333333333,
+      "utilization_rate": 0.08333333333333333
     },
     "largest_station": {
       "id": "urn:ngsi-ld:station:006",
       "address": "Place Albert 1er - St Charles",
       "locality": "Montpellier",
-      "available_bikes": 6,
-      "free_slots": 21,
+      "available_bikes": 8,
+      "free_slots": 19,
       "total_slots": 27,
       "status": "working",
       "latitude": 43.616768,
       "longitude": 3.873375,
-      "last_update": "2025-08-02T17:44:16.000Z",
-      "occupancy_rate": 0.2222222222222222,
-      "utilization_rate": 0.2222222222222222
+      "last_update": "2025-08-02T21:15:19.000Z",
+      "occupancy_rate": 0.2962962962962963,
+      "utilization_rate": 0.2962962962962963
     },
     "smallest_station": {
       "id": "urn:ngsi-ld:station:007",
@@ -79,7 +79,7 @@
       "status": "working",
       "latitude": 43.610989,
       "longitude": 3.873345,
-      "last_update": "2025-08-02T17:44:16.000Z",
+      "last_update": "2025-08-02T21:15:19.000Z",
       "occupancy_rate": 0.375,
       "utilization_rate": 0.375
     }
