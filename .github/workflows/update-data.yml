@@ -1,0 +1,60 @@
+name: 📊 Mise à jour VéloMAG Data
+
+on:
+  schedule:
+    # Mise à jour 2 fois par jour : 8h et 20h
+    - cron: '0 8,20 * * *'
+  workflow_dispatch:
+    # Permet le déclenchement manuel
+  push:
+    branches: [ main ]
+    paths:
+      - '*.py'
+      - 'requirements.txt'
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 📥 Checkout code
+      uses: actions/checkout@v4
+      
+    - name: 🐍 Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: 📦 Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        
+    - name: 🚴‍♂️ Generate VéloMAG visualizations
+      run: |
+        python interactive_viz.py
+        
+    - name: 🗂️ Organize files for GitHub Pages
+      run: |
+        chmod +x organize_files.sh
+        ./organize_files.sh
+        
+    - name: 📊 Update statistics
+      run: |
+        echo "Last update: $(date)" > docs/last_update.txt
+        echo "Total stations: $(cat velomagg_analysis_stats.json | grep -o '"total_stations":[0-9]*' | cut -d':' -f2)" >> docs/last_update.txt
+        
+    - name: 🚀 Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./docs
+        publish_branch: gh-pages
+        
+    - name: 📝 Commit updated data
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add docs/
+        git diff --staged --quiet || git commit -m "🔄 Mise à jour automatique des données VéloMAG - $(date)"
+        git push

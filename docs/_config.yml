@@ -1,0 +1,35 @@
+# Configuration GitHub Pages pour VéloMAG Stats
+title: "VéloMAG Stats"
+description: "Analyse en temps réel du système de vélos en libre-service de Montpellier"
+baseurl: ""
+url: "https://FabienBounoir.github.io"
+
+# Jekyll configuration
+markdown: kramdown
+highlighter: rouge
+theme: null
+
+# Exclude files
+exclude:
+  - README.md
+  - LICENSE
+  - "*.py"
+  - "*.sh"
+  - ".venv/"
+  - "__pycache__/"
+
+# Include files
+include:
+  - assets/
+  - data/
+  - reports/
+  - visualizations/
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+# SEO
+lang: fr
+author: VéloMAG Analytics

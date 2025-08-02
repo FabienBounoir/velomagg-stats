@@ -1,0 +1,68 @@
+
+📊 RAPPORT EXÉCUTIF VÉLOMAGG MONTPELLIER
+==================================================
+
+🎯 INDICATEURS CLÉS
+• Réseau: 20 stations (20 actives)
+• Flotte: 117 vélos sur 271 places
+• Taux d'occupation: 44.2% (cible: 40-60%)
+• Performance réseau: 🟢 BONNE
+
+⚠️ ALERTES (3 urgentes)
+• Stations hors service: 0
+• Stations vides: 1
+• Stations pleines: 2
+• Efficacité faible: 1
+
+🏆 PERFORMANCES
+• Meilleure station: Corum... (100.0%)
+• Station critique: Halles Castellane... (0.0%)
+
+💡 ACTIONS PRIORITAIRES
+
+URGENT:
+  • ⚠️ 1 stations complètement vides (redistribution urgente)
+  • ⚠️ 2 stations complètement pleines (retrait urgent)
+
+CAPACITY:
+  • 📉 1 stations sous-utilisées (réduction possible)
+  • 📈 2 stations sur-utilisées (extension recommandée)
+
+DEPLOYMENT:
+  • 🎯 Efficacité réseau globale faible (58.4%) - rééquilibrage nécessaire
+
+
+==================================================
+RAPPORT DÉTAILLÉ
+==================================================
+
+📈 ANALYSE PAR QUARTILES
+Q1 (25%): 21.7%
+Q2 (50%): 39.6%
+Q3 (75%): 62.5%
+
+
+🏆 TOP 10 STATIONS LES PLUS EFFICACES
+Hôtel de Ville                                     85.0%
+Emile Combes                                       85.0%
+Rue Jules Ferry - Gare Saint-Roch                  80.8%
+Beaux-Arts                                         78.1%
+Boutonnet                                          75.8%
+Les Aubes                                          72.5%
+Médiathèque Emile Zola                             72.5%
+Nombre d Or                                        71.3%
+Port Marianne                                      66.3%
+Louis Blanc                                        64.4%
+
+
+⚠️ TOP 10 STATIONS À AMÉLIORER
+Halles Castellane                                  0.0%
+Corum                                              30.0%
+Antigone centre                                    30.0%
+Rondelet                                           43.8%
+Gambetta                                           43.8%
+Plan Cabanes                                       48.3%
+Comédie                                            52.0%
+Place Albert 1er - St Charles                      54.4%
+Foch                                               57.5%
+Observatoire                                       57.5%

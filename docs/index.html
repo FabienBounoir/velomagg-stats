@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VéloMAG Stats - Tableau de bord</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container">
+            <a class="navbar-brand" href="/">
+                <i class="fas fa-bicycle me-2"></i>
+                VéloMAG Stats
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#dashboard">Dashboard</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#carte">Carte</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#analyses">Analyses</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#donnees">Données</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <div class="hero-section bg-gradient-primary text-white py-5">
+        <div class="container text-center">
+            <h1 class="display-4 fw-bold mb-3">
+                <i class="fas fa-chart-line me-3"></i>
+                VéloMAG Analytics
+            </h1>
+            <p class="lead mb-4">
+                Analyse en temps réel du système de vélos en libre-service de Montpellier
+            </p>
+            <div class="row justify-content-center">
+                <div class="col-md-8">
+                    <div class="stats-cards row g-3">
+                        <div class="col-md-3">
+                            <div class="card bg-white bg-opacity-20 border-0">
+                                <div class="card-body text-center">
+                                    <h3 class="text-white mb-1" id="total-stations">20</h3>
+                                    <small class="text-white-50">Stations</small>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card bg-white bg-opacity-20 border-0">
+                                <div class="card-body text-center">
+                                    <h3 class="text-white mb-1" id="total-bikes">113</h3>
+                                    <small class="text-white-50">Vélos</small>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card bg-white bg-opacity-20 border-0">
+                                <div class="card-body text-center">
+                                    <h3 class="text-white mb-1" id="occupation-rate">42.6%</h3>
+                                    <small class="text-white-50">Occupation</small>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card bg-white bg-opacity-20 border-0">
+                                <div class="card-body text-center">
+                                    <h3 class="text-white mb-1">
+                                        <span class="visually-hidden">Statut: </span>
+                                        <i class="fas fa-sync-alt spinning" aria-hidden="true"></i>
+                                        <span class="visually-hidden">En temps réel</span>
+                                    </h3>
+                                    <small class="text-white-50">Temps réel</small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="container my-5">
+        <!-- Dashboard Section -->
+        <section id="dashboard" class="mb-5">
+            <div class="row align-items-center mb-4">
+                <div class="col">
+                    <h2 class="section-title">
+                        <i class="fas fa-tachometer-alt text-primary me-3"></i>
+                        Dashboard Interactif
+                    </h2>
+                    <p class="text-muted">Vue d'ensemble des performances du réseau VéloMAG</p>
+                </div>
+                <div class="col-auto">
+                    <a href="dashboard_velomagg.html" class="btn btn-primary" target="_blank">
+                        <i class="fas fa-external-link-alt me-2"></i>
+                        Ouvrir en plein écran
+                    </a>
+                </div>
+            </div>
+            <div class="card shadow-sm">
+                <div class="card-body p-0">
+                    <iframe src="dashboard_velomagg.html" title="Dashboard interactif VéloMAG"
+                        class="w-100 dashboard-iframe" style="border: none;"></iframe>
+                </div>
+            </div>
+        </section>
+
+        <!-- Carte Section -->
+        <section id="carte" class="mb-5">
+            <div class="row align-items-center mb-4">
+                <div class="col">
+                    <h2 class="section-title">
+                        <i class="fas fa-map-marked-alt text-success me-3"></i>
+                        Carte Interactive
+                    </h2>
+                    <p class="text-muted">Localisation et état en temps réel de toutes les stations</p>
+                </div>
+                <div class="col-auto">
+                    <a href="carte_velomagg.html" class="btn btn-success" target="_blank">
+                        <i class="fas fa-map me-2"></i>
+                        Voir la carte complète
+                    </a>
+                </div>
+            </div>
+            <div class="card shadow-sm">
+                <div class="card-body p-0">
+                    <iframe src="carte_velomagg.html" title="Carte interactive des stations VéloMAG"
+                        class="w-100 map-iframe" style="border: none;"></iframe>
+                </div>
+            </div>
+        </section>
+
+        <!-- Analyses Section -->
+        <section id="analyses" class="mb-5">
+            <h2 class="section-title mb-4">
+                <i class="fas fa-chart-bar text-info me-3"></i>
+                Analyses et Rapports
+            </h2>
+            <div class="row g-4">
+                <div class="col-md-6">
+                    <div class="card h-100 shadow-sm">
+                        <div class="card-header bg-info text-white">
+                            <h5 class="mb-0">
+                                <i class="fas fa-clock me-2"></i>
+                                Analyse Temporelle
+                            </h5>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">Patterns d'usage et prédictions de pics d'affluence</p>
+                            <a href="temporal_analysis.html" class="btn btn-info" target="_blank">
+                                <i class="fas fa-chart-line me-2"></i>
+                                Voir l'analyse
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="card h-100 shadow-sm">
+                        <div class="card-header bg-warning text-dark">
+                            <h5 class="mb-0">
+                                <i class="fas fa-file-alt me-2"></i>
+                                Rapport Détaillé
+                            </h5>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">Rapport exécutif avec recommandations d'optimisation</p>
+                            <a href="reports/rapport_detaille.txt" class="btn btn-warning" target="_blank">
+                                <i class="fas fa-download me-2"></i>
+                                Télécharger le rapport
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Données Section -->
+        <section id="donnees" class="mb-5">
+            <h2 class="section-title mb-4">
+                <i class="fas fa-database text-secondary me-3"></i>
+                Données et Exports
+            </h2>
+            <div class="row g-4">
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm">
+                        <div class="card-header bg-secondary text-white">
+                            <h6 class="mb-0">
+                                <i class="fas fa-table me-2"></i>
+                                Données CSV
+                            </h6>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text small">Données détaillées de toutes les stations</p>
+                            <a href="data/velomagg_analysis.csv" class="btn btn-sm btn-secondary" download>
+                                <i class="fas fa-download me-1"></i>
+                                CSV
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm">
+                        <div class="card-header bg-secondary text-white">
+                            <h6 class="mb-0">
+                                <i class="fas fa-code me-2"></i>
+                                Données JSON
+                            </h6>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text small">Statistiques au format JSON</p>
+                            <a href="data/velomagg_analysis_stats.json" class="btn btn-sm btn-secondary" download>
+                                <i class="fas fa-download me-1"></i>
+                                JSON
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm">
+                        <div class="card-header bg-secondary text-white">
+                            <h6 class="mb-0">
+                                <i class="fas fa-images me-2"></i>
+                                Graphiques
+                            </h6>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text small">Visualisations statiques PNG</p>
+                            <a href="data/visualizations/" class="btn btn-sm btn-secondary" target="_blank">
+                                <i class="fas fa-folder me-1"></i>
+                                Dossier
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-white py-4 mt-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h6>VéloMAG Stats</h6>
+                    <p class="small text-muted mb-0">
+                        Analyse en temps réel des données du système VéloMAG de Montpellier Métropole
+                    </p>
+                </div>
+                <div class="col-md-6 text-md-end">
+                    <p class="small text-muted mb-0">
+                        Dernière mise à jour: <span id="last-update">--</span>
+                    </p>
+                    <p class="small text-muted mb-0">
+                        <i class="fas fa-database me-1"></i>
+                        Données fournies par l'API officielle de Montpellier3M
+                    </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/app.js"></script>
+</body>
+
+</html>

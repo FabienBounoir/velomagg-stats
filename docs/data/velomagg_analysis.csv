@@ -1,0 +1,21 @@
+id,address,locality,available_bikes,free_slots,total_slots,status,latitude,longitude,last_update,occupancy_rate,utilization_rate
+urn:ngsi-ld:station:001,Rue Jules Ferry - Gare Saint-Roch,Montpellier,7,5,12,working,43.605366,3.881346,2025-07-27T19:39:18.000Z,0.5833333333333334,0.5833333333333334
+urn:ngsi-ld:station:002,Comédie,Montpellier,4,16,20,working,43.608148,3.878778,2025-07-27T19:39:18.000Z,0.2,0.2
+urn:ngsi-ld:station:004,Hôtel de Ville,Montpellier,8,8,16,working,43.599088,3.894866,2025-07-27T19:39:18.000Z,0.5,0.5
+urn:ngsi-ld:station:005,Corum,Montpellier,11,1,12,working,43.613989,3.8816,2025-07-27T19:39:18.000Z,0.9166666666666666,0.9166666666666666
+urn:ngsi-ld:station:006,Place Albert 1er - St Charles,Montpellier,6,21,27,working,43.616768,3.873375,2025-07-27T19:39:18.000Z,0.2222222222222222,0.2222222222222222
+urn:ngsi-ld:station:007,Foch,Montpellier,2,6,8,working,43.610989,3.873345,2025-07-27T19:39:18.000Z,0.25,0.25
+urn:ngsi-ld:station:008,Halles Castellane,Montpellier,0,12,12,working,43.609935,3.877208,2025-07-27T19:39:18.000Z,0.0,0.0
+urn:ngsi-ld:station:009,Observatoire,Montpellier,2,6,8,working,43.606301,3.87724,2025-07-27T19:39:18.000Z,0.25,0.25
+urn:ngsi-ld:station:010,Rondelet,Montpellier,2,14,16,working,43.603038,3.875796,2025-07-27T19:39:18.000Z,0.125,0.125
+urn:ngsi-ld:station:011,Plan Cabanes,Montpellier,3,9,12,working,43.608491,3.868389,2025-07-27T19:39:18.000Z,0.25,0.25
+urn:ngsi-ld:station:012,Boutonnet,Montpellier,5,7,12,working,43.622629,3.868375,2025-07-27T19:39:18.000Z,0.4166666666666667,0.4166666666666667
+urn:ngsi-ld:station:013,Emile Combes,Montpellier,4,4,8,working,43.616742,3.87998,2025-07-27T19:39:18.000Z,0.5,0.5
+urn:ngsi-ld:station:014,Beaux-Arts,Montpellier,7,9,16,working,43.616698,3.884981,2025-07-27T19:39:18.000Z,0.4375,0.4375
+urn:ngsi-ld:station:015,Les Aubes,Montpellier,6,2,8,working,43.618692,3.893844,2025-07-27T19:39:18.000Z,0.75,0.75
+urn:ngsi-ld:station:016,Antigone centre,Montpellier,12,0,12,working,43.607942,3.890634,2025-07-27T19:39:18.000Z,1.0,1.0
+urn:ngsi-ld:station:017,Médiathèque Emile Zola,Montpellier,12,4,16,working,43.608218,3.89314,2025-07-27T19:39:18.000Z,0.75,0.75
+urn:ngsi-ld:station:018,Nombre d Or,Montpellier,6,10,16,working,43.607859,3.886644,2025-07-27T19:39:18.000Z,0.375,0.375
+urn:ngsi-ld:station:019,Louis Blanc,Montpellier,5,11,16,working,43.614642,3.877648,2025-07-27T19:39:18.000Z,0.3125,0.3125
+urn:ngsi-ld:station:020,Gambetta,Montpellier,1,7,8,working,43.607106,3.870693,2025-07-27T19:39:18.000Z,0.125,0.125
+urn:ngsi-ld:station:021,Port Marianne,Montpellier,14,2,16,working,43.60032,3.89851,2025-07-27T19:39:18.000Z,0.875,0.875

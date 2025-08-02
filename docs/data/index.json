@@ -1,0 +1,13 @@
+{
+  "api": {
+    "version": "1.0",
+    "last_update": "2025-08-02T14:52:56Z",
+    "endpoints": {
+      "csv": "velomagg_analysis.csv",
+      "json": "velomagg_analysis_stats.json",
+      "reports": "../reports/rapport_detaille.txt",
+      "visualizations": "../visualizations/"
+    }
+  },
+  "description": "API des données VéloMAG Stats"
+}

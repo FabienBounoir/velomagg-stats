@@ -1,0 +1,7 @@
+# Fichiers temporaires
+*.tmp
+*.temp
+.DS_Store
+
+# Logs
+*.log
