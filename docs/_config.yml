@@ -2,7 +2,7 @@
 title: "VéloMAG Stats"
 description: "Analyse en temps réel du système de vélos en libre-service de Montpellier"
 baseurl: ""
-url: "https://FabienBounoir.github.io"
+url: "https://.github.io"
 
 # Jekyll configuration
 markdown: kramdown
