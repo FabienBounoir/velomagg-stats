@@ -15,6 +15,10 @@ on:
 jobs:
   update-data:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
     
     steps:
     - name: 📥 Checkout code
@@ -29,32 +33,96 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
+        # Installer jq pour parser JSON et bc pour calculs
+        sudo apt-get update && sudo apt-get install -y jq bc
+        
+    - name: 🧪 Verify dependencies
+      run: |
+        python scripts/check_dependencies.py
         
     - name: 🚴‍♂️ Generate VéloMAG visualizations
       run: |
-        python interactive_viz.py
+        # Générer d'abord les données principales (obligatoire)
+        python main.py
+        
+        # Générer les visualisations interactives (optionnel, en cas d'erreur on continue)
+        python interactive_viz.py || echo "⚠️ Visualisations interactives échouées, mais données principales OK"
         
     - name: 🗂️ Organize files for GitHub Pages
       run: |
         chmod +x organize_files.sh
         ./organize_files.sh
         
-    - name: 📊 Update statistics
+    - name: 📊 Update README with real stats
       run: |
+        # Extraire les statistiques du JSON avec jq
+        TOTAL_STATIONS=$(cat docs/data/velomagg_analysis_stats.json | jq -r '.general.total_stations')
+        TOTAL_BIKES=$(cat docs/data/velomagg_analysis_stats.json | jq -r '.general.total_bikes')
+        OCCUPATION=$(cat docs/data/velomagg_analysis_stats.json | jq -r '.general.average_occupancy')
+        WORKING_STATIONS=$(cat docs/data/velomagg_analysis_stats.json | jq -r '.general.working_stations')
+        
+        # Formater le taux d'occupation en pourcentage
+        OCCUPATION_PERCENT=$(echo "$OCCUPATION * 100" | bc -l | cut -d'.' -f1)
+        
+        # Mettre à jour le README avec les vraies données
+        sed -i.bak "s/les \*\*[0-9]* stations VéloMAG\*\*/les **$TOTAL_STATIONS stations VéloMAG**/" README.md
+        
+        # Créer une section de statistiques en temps réel
+        echo "" > /tmp/stats_section.md
+        echo "## 📈 Statistiques en temps réel" >> /tmp/stats_section.md
+        echo "" >> /tmp/stats_section.md
+        echo "> **Dernière mise à jour :** \$(date '+%d/%m/%Y à %H:%M UTC')" >> /tmp/stats_section.md
+        echo "" >> /tmp/stats_section.md
+        echo "| 📊 Métrique | 🔢 Valeur | 📝 Description |" >> /tmp/stats_section.md
+        echo "|-------------|-----------|----------------|" >> /tmp/stats_section.md
+        echo "| 🚲 **Stations actives** | **$WORKING_STATIONS/$TOTAL_STATIONS** | Stations en fonctionnement |" >> /tmp/stats_section.md
+        echo "| 🚴‍♂️ **Vélos disponibles** | **$TOTAL_BIKES** | Total des vélos en circulation |" >> /tmp/stats_section.md
+        echo "| 📍 **Taux d'occupation** | **$OCCUPATION_PERCENT%** | Moyenne de toutes les stations |" >> /tmp/stats_section.md
+        echo "| 🔄 **Mise à jour** | **2x/jour** | 8h et 20h UTC automatique |" >> /tmp/stats_section.md
+        echo "" >> /tmp/stats_section.md
+        
+        # Insérer après la section "Aperçu"
+        awk '/## 📊 Aperçu/{p=1} /## 🎯 Démarrage rapide/{if(p){system("cat /tmp/stats_section.md"); p=0}} 1' README.md > /tmp/readme_updated.md
+        mv /tmp/readme_updated.md README.md
+        
+    - name: 📊 Update statistics files
+      run: |
+        # Fichier de mise à jour pour le site
         echo "Last update: $(date)" > docs/last_update.txt
-        echo "Total stations: $(cat velomagg_analysis_stats.json | grep -o '"total_stations":[0-9]*' | cut -d':' -f2)" >> docs/last_update.txt
+        echo "Total stations: $(cat docs/data/velomagg_analysis_stats.json | jq -r '.general.total_stations')" >> docs/last_update.txt
+        echo "Total bikes: $(cat docs/data/velomagg_analysis_stats.json | jq -r '.general.total_bikes')" >> docs/last_update.txt
+        echo "Working stations: $(cat docs/data/velomagg_analysis_stats.json | jq -r '.general.working_stations')" >> docs/last_update.txt
+        
+        # Mettre à jour les statistiques dans l'index.html du site
+        TOTAL_STATIONS=$(cat docs/data/velomagg_analysis_stats.json | jq -r '.general.total_stations')
+        TOTAL_BIKES=$(cat docs/data/velomagg_analysis_stats.json | jq -r '.general.total_bikes')
+        OCCUPATION=$(cat docs/data/velomagg_analysis_stats.json | jq -r '.general.average_occupancy')
+        OCCUPATION_PERCENT=$(echo "$OCCUPATION * 100" | bc -l | cut -d'.' -f1).$(echo "$OCCUPATION * 100" | bc -l | cut -d'.' -f2 | cut -c1)
+        
+        # Mise à jour du HTML avec les vraies valeurs
+        sed -i.bak "s/<h3 class=\"text-primary mb-1\" id=\"total-stations\">[0-9]*<\/h3>/<h3 class=\"text-primary mb-1\" id=\"total-stations\">$TOTAL_STATIONS<\/h3>/" docs/index.html
+        sed -i.bak "s/<h3 class=\"text-success mb-1\" id=\"total-bikes\">[0-9]*<\/h3>/<h3 class=\"text-success mb-1\" id=\"total-bikes\">$TOTAL_BIKES<\/h3>/" docs/index.html
+        sed -i.bak "s/<h3 class=\"text-info mb-1\" id=\"occupation-rate\">[0-9.]*%<\/h3>/<h3 class=\"text-info mb-1\" id=\"occupation-rate\">$OCCUPATION_PERCENT%<\/h3>/" docs/index.html
         
     - name: 🚀 Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./docs
-        publish_branch: gh-pages
-        
-    - name: 📝 Commit updated data
       run: |
+        # Configuration Git
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        
+        # Ajouter tous les fichiers du dossier docs
         git add docs/
-        git diff --staged --quiet || git commit -m "🔄 Mise à jour automatique des données VéloMAG - $(date)"
-        git push
+        
+        # Commiter seulement s'il y a des changements
+        if ! git diff --staged --quiet; then
+          git commit -m "🔄 Mise à jour automatique des données VéloMAG - $(date)"
+          git push origin main
+          echo "✅ Données mises à jour et déployées"
+        else
+          echo "ℹ️ Aucune modification détectée"
+        fi
+        
+    - name: 📝 Create deployment info
+      run: |
+        echo "Deployment completed at $(date)" > docs/deployment.log
+        echo "Total files: $(find docs/ -type f | wc -l)" >> docs/deployment.log

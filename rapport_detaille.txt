@@ -4,32 +4,27 @@
 
 🎯 INDICATEURS CLÉS
 • Réseau: 20 stations (20 actives)
-• Flotte: 117 vélos sur 271 places
-• Taux d'occupation: 44.2% (cible: 40-60%)
+• Flotte: 116 vélos sur 271 places
+• Taux d'occupation: 43.9% (cible: 40-60%)
 • Performance réseau: 🟢 BONNE
 
-⚠️ ALERTES (3 urgentes)
+⚠️ ALERTES (1 urgentes)
 • Stations hors service: 0
-• Stations vides: 1
-• Stations pleines: 2
-• Efficacité faible: 1
+• Stations vides: 0
+• Stations pleines: 1
+• Efficacité faible: 0
 
 🏆 PERFORMANCES
-• Meilleure station: Corum... (100.0%)
-• Station critique: Halles Castellane... (0.0%)
+• Meilleure station: Emile Combes... (100.0%)
+• Station critique: Comédie... (15.0%)
 
 💡 ACTIONS PRIORITAIRES
 
 URGENT:
-  • ⚠️ 1 stations complètement vides (redistribution urgente)
-  • ⚠️ 2 stations complètement pleines (retrait urgent)
+  • ⚠️ 1 stations complètement pleines (retrait urgent)
 
 CAPACITY:
-  • 📉 1 stations sous-utilisées (réduction possible)
-  • 📈 2 stations sur-utilisées (extension recommandée)
-
-DEPLOYMENT:
-  • 🎯 Efficacité réseau globale faible (58.4%) - rééquilibrage nécessaire
+  • 📈 1 stations sur-utilisées (extension recommandée)
 
 
 ==================================================
@@ -37,32 +32,32 @@ RAPPORT DÉTAILLÉ
 ==================================================
 
 📈 ANALYSE PAR QUARTILES
-Q1 (25%): 21.7%
+Q1 (25%): 24.3%
 Q2 (50%): 39.6%
-Q3 (75%): 62.5%
+Q3 (75%): 56.2%
 
 
 🏆 TOP 10 STATIONS LES PLUS EFFICACES
-Hôtel de Ville                                     85.0%
-Emile Combes                                       85.0%
-Rue Jules Ferry - Gare Saint-Roch                  80.8%
-Beaux-Arts                                         78.1%
-Boutonnet                                          75.8%
-Les Aubes                                          72.5%
-Médiathèque Emile Zola                             72.5%
-Nombre d Or                                        71.3%
-Port Marianne                                      66.3%
-Louis Blanc                                        64.4%
+Plan Cabanes                                       85.0%
+Antigone centre                                    85.0%
+Beaux-Arts                                         81.9%
+Médiathèque Emile Zola                             81.9%
+Port Marianne                                      81.9%
+Louis Blanc                                        78.1%
+Corum                                              75.8%
+Foch                                               71.3%
+Observatoire                                       71.3%
+Les Aubes                                          71.3%
 
 
 ⚠️ TOP 10 STATIONS À AMÉLIORER
-Halles Castellane                                  0.0%
-Corum                                              30.0%
-Antigone centre                                    30.0%
-Rondelet                                           43.8%
-Gambetta                                           43.8%
-Plan Cabanes                                       48.3%
-Comédie                                            52.0%
+Emile Combes                                       30.0%
+Comédie                                            46.5%
+Rue Jules Ferry - Gare Saint-Roch                  48.3%
+Halles Castellane                                  48.3%
+Boutonnet                                          48.3%
 Place Albert 1er - St Charles                      54.4%
-Foch                                               57.5%
-Observatoire                                       57.5%
+Rondelet                                           57.5%
+Hôtel de Ville                                     69.4%
+Nombre d Or                                        69.4%
+Foch                                               71.3%
