@@ -1,4 +1,4 @@
-Last update: Sat Aug  2 20:21:20 UTC 2025
+Last update: Sun Aug  3 08:25:25 UTC 2025
 Total stations: 20
-Total bikes: 130
+Total bikes: 134
 Working stations: 20
