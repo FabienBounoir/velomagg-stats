@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 03/08/2025 à 19:07
+**Dernière mise à jour :** 03/08/2025 à 20:22
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 126 |
+| 🚴 **Vélos disponibles** | 133 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 45% |
+| 📊 **Taux d'occupation** | 48% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Port Marianne (100%)
-- **Station la moins fréquentée :** Foch (12%)
+- **Station la plus fréquentée :** Hôtel de Ville (100%)
+- **Station la moins fréquentée :** Boutonnet (8%)
 
 ## 🌐 Site Web Interactif
 
