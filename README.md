@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 07/08/2025 à 20:23
+**Dernière mise à jour :** 08/08/2025 à 08:29
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 122 |
+| 🚴 **Vélos disponibles** | 143 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 45% |
+| 📊 **Taux d'occupation** | 52% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Les Aubes (100%)
-- **Station la moins fréquentée :** Halles Castellane (0%)
+- **Station la plus fréquentée :** Antigone centre (100%)
+- **Station la moins fréquentée :** Hôtel de Ville (25%)
 
 ## 🌐 Site Web Interactif
 
