@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 08/08/2025 à 08:29
+**Dernière mise à jour :** 08/08/2025 à 20:22
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 143 |
+| 🚴 **Vélos disponibles** | 121 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 52% |
+| 📊 **Taux d'occupation** | 43% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Antigone centre (100%)
-- **Station la moins fréquentée :** Hôtel de Ville (25%)
+- **Station la plus fréquentée :** Emile Combes (87%)
+- **Station la moins fréquentée :** Plan Cabanes (0%)
 
 ## 🌐 Site Web Interactif
 
