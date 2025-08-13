@@ -4,7 +4,7 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 13/08/2025 à 08:27
+**Dernière mise à jour :** 13/08/2025 à 20:21
 
 | Métrique | Valeur |
 |----------|--------|
@@ -16,7 +16,7 @@
 ### 🏆 Performances des stations
 
 - **Station la plus fréquentée :** Rue Jules Ferry - Gare Saint-Roch (75%)
-- **Station la moins fréquentée :** Hôtel de Ville (18%)
+- **Station la moins fréquentée :** Hôtel de Ville (12%)
 
 ## 🌐 Site Web Interactif
 
