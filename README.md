@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 14/08/2025 à 08:27
+**Dernière mise à jour :** 14/08/2025 à 20:22
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 133 |
+| 🚴 **Vélos disponibles** | 122 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 49% |
+| 📊 **Taux d'occupation** | 46% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Plan Cabanes (75%)
-- **Station la moins fréquentée :** Corum (0%)
+- **Station la plus fréquentée :** Rue Jules Ferry - Gare Saint-Roch (100%)
+- **Station la moins fréquentée :** Corum (8%)
 
 ## 🌐 Site Web Interactif
 
