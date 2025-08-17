@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 17/08/2025 à 08:25
+**Dernière mise à jour :** 17/08/2025 à 20:21
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 132 |
+| 🚴 **Vélos disponibles** | 142 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 46% |
+| 📊 **Taux d'occupation** | 52% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Gambetta (100%)
-- **Station la moins fréquentée :** Observatoire (0%)
+- **Station la plus fréquentée :** Emile Combes (100%)
+- **Station la moins fréquentée :** Rue Jules Ferry - Gare Saint-Roch (16%)
 
 ## 🌐 Site Web Interactif
 
