@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 16/08/2025 à 20:19
+**Dernière mise à jour :** 17/08/2025 à 08:25
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 130 |
+| 🚴 **Vélos disponibles** | 132 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 47% |
+| 📊 **Taux d'occupation** | 46% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Médiathèque Emile Zola (93%)
-- **Station la moins fréquentée :** Foch (0%)
+- **Station la plus fréquentée :** Gambetta (100%)
+- **Station la moins fréquentée :** Observatoire (0%)
 
 ## 🌐 Site Web Interactif
 
