@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 18/08/2025 à 08:29
+**Dernière mise à jour :** 18/08/2025 à 20:19
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 124 |
+| 🚴 **Vélos disponibles** | 131 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 47% |
+| 📊 **Taux d'occupation** | 48% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Emile Combes (100%)
-- **Station la moins fréquentée :** Place Albert 1er - St Charles (11%)
+- **Station la plus fréquentée :** Rondelet (100%)
+- **Station la moins fréquentée :** Les Aubes (0%)
 
 ## 🌐 Site Web Interactif
 
