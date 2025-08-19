@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 19/08/2025 à 08:26
+**Dernière mise à jour :** 19/08/2025 à 20:21
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 129 |
+| 🚴 **Vélos disponibles** | 120 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 48% |
+| 📊 **Taux d'occupation** | 45% |
 
 ### 🏆 Performances des stations
 
 - **Station la plus fréquentée :** Rondelet (100%)
-- **Station la moins fréquentée :** Place Albert 1er - St Charles (7%)
+- **Station la moins fréquentée :** Médiathèque Emile Zola (12%)
 
 ## 🌐 Site Web Interactif
 
