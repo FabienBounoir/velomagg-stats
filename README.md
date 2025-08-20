@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 20/08/2025 à 08:25
+**Dernière mise à jour :** 20/08/2025 à 20:21
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 117 |
+| 🚴 **Vélos disponibles** | 112 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 44% |
+| 📊 **Taux d'occupation** | 42% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Rue Jules Ferry - Gare Saint-Roch (91%)
-- **Station la moins fréquentée :** Corum (16%)
+- **Station la plus fréquentée :** Louis Blanc (93%)
+- **Station la moins fréquentée :** Place Albert 1er - St Charles (7%)
 
 ## 🌐 Site Web Interactif
 
