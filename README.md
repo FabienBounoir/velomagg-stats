@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 19/08/2025 à 20:21
+**Dernière mise à jour :** 20/08/2025 à 08:25
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 120 |
+| 🚴 **Vélos disponibles** | 117 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 45% |
+| 📊 **Taux d'occupation** | 44% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Rondelet (100%)
-- **Station la moins fréquentée :** Médiathèque Emile Zola (12%)
+- **Station la plus fréquentée :** Rue Jules Ferry - Gare Saint-Roch (91%)
+- **Station la moins fréquentée :** Corum (16%)
 
 ## 🌐 Site Web Interactif
 
