@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 21/08/2025 à 08:25
+**Dernière mise à jour :** 21/08/2025 à 20:20
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 122 |
+| 🚴 **Vélos disponibles** | 108 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 47% |
+| 📊 **Taux d'occupation** | 43% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Louis Blanc (81%)
-- **Station la moins fréquentée :** Place Albert 1er - St Charles (0%)
+- **Station la plus fréquentée :** Halles Castellane (83%)
+- **Station la moins fréquentée :** Place Albert 1er - St Charles (11%)
 
 ## 🌐 Site Web Interactif
 
