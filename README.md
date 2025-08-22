@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 22/08/2025 à 08:25
+**Dernière mise à jour :** 22/08/2025 à 20:20
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 112 |
+| 🚴 **Vélos disponibles** | 124 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 45% |
+| 📊 **Taux d'occupation** | 46% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Foch (87%)
-- **Station la moins fréquentée :** Louis Blanc (6%)
+- **Station la plus fréquentée :** Port Marianne (87%)
+- **Station la moins fréquentée :** Nombre d Or (18%)
 
 ## 🌐 Site Web Interactif
 
