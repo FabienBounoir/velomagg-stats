@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 21/08/2025 à 20:20
+**Dernière mise à jour :** 22/08/2025 à 08:25
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 108 |
+| 🚴 **Vélos disponibles** | 112 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 43% |
+| 📊 **Taux d'occupation** | 45% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Halles Castellane (83%)
-- **Station la moins fréquentée :** Place Albert 1er - St Charles (11%)
+- **Station la plus fréquentée :** Foch (87%)
+- **Station la moins fréquentée :** Louis Blanc (6%)
 
 ## 🌐 Site Web Interactif
 
