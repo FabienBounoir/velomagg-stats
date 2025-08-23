@@ -2,21 +2,21 @@
   "general": {
     "total_stations": 20,
     "working_stations": 20,
-    "total_bikes": "124",
+    "total_bikes": "111",
     "total_capacity": "271",
-    "average_occupancy": 0.46314814814814814,
-    "median_occupancy": 0.42708333333333337
+    "average_occupancy": 0.40844907407407405,
+    "median_occupancy": 0.39583333333333337
   },
   "distribution": {
     "bikes_per_station": {
-      "mean": 6.2,
-      "std": 3.5183728296502426,
-      "min": "2",
-      "max": "14",
+      "mean": 5.55,
+      "std": 4.006245124802025,
+      "min": "0",
+      "max": "16",
       "quartiles": {
         "0.25": 3.0,
-        "0.5": 5.0,
-        "0.75": 8.25
+        "0.5": 4.5,
+        "0.75": 7.25
       }
     },
     "capacity_per_station": {
@@ -31,57 +31,57 @@
       "id": "urn:ngsi-ld:station:021",
       "address": "Port Marianne",
       "locality": "Montpellier",
-      "available_bikes": 14,
-      "free_slots": 2,
+      "available_bikes": 16,
+      "free_slots": 0,
       "total_slots": 16,
       "status": "working",
       "latitude": 43.60032,
       "longitude": 3.89851,
-      "last_update": "2025-08-22T22:20:20.000Z",
-      "occupancy_rate": 0.875,
-      "utilization_rate": 0.875
+      "last_update": "2025-08-23T10:21:20.000Z",
+      "occupancy_rate": 1.0,
+      "utilization_rate": 1.0
     },
     "least_occupied": {
-      "id": "urn:ngsi-ld:station:018",
-      "address": "Nombre d Or",
+      "id": "urn:ngsi-ld:station:008",
+      "address": "Halles Castellane",
       "locality": "Montpellier",
-      "available_bikes": 3,
-      "free_slots": 13,
-      "total_slots": 16,
+      "available_bikes": 0,
+      "free_slots": 12,
+      "total_slots": 12,
       "status": "working",
-      "latitude": 43.607859,
-      "longitude": 3.886644,
-      "last_update": "2025-08-22T22:20:20.000Z",
-      "occupancy_rate": 0.1875,
-      "utilization_rate": 0.1875
+      "latitude": 43.609935,
+      "longitude": 3.877208,
+      "last_update": "2025-08-23T10:21:20.000Z",
+      "occupancy_rate": 0.0,
+      "utilization_rate": 0.0
     },
     "largest_station": {
       "id": "urn:ngsi-ld:station:006",
       "address": "Place Albert 1er - St Charles",
       "locality": "Montpellier",
-      "available_bikes": 8,
-      "free_slots": 19,
+      "available_bikes": 4,
+      "free_slots": 23,
       "total_slots": 27,
       "status": "working",
       "latitude": 43.616768,
       "longitude": 3.873375,
-      "last_update": "2025-08-22T22:20:20.000Z",
-      "occupancy_rate": 0.2962962962962963,
-      "utilization_rate": 0.2962962962962963
+      "last_update": "2025-08-23T10:21:20.000Z",
+      "occupancy_rate": 0.14814814814814814,
+      "utilization_rate": 0.14814814814814814
     },
     "smallest_station": {
       "id": "urn:ngsi-ld:station:007",
       "address": "Foch",
       "locality": "Montpellier",
-      "available_bikes": 5,
-      "free_slots": 3,
+      "available_bikes": 1,
+      "free_slots": 7,
       "total_slots": 8,
       "status": "working",
       "latitude": 43.610989,
       "longitude": 3.873345,
-      "last_update": "2025-08-22T22:20:20.000Z",
-      "occupancy_rate": 0.625,
-      "utilization_rate": 0.625
+      "last_update": "2025-08-23T10:21:20.000Z",
+      "occupancy_rate": 0.125,
+      "utilization_rate": 0.125
     }
   }
 }
