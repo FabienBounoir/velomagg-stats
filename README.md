@@ -4,18 +4,18 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 25/08/2025 à 08:27
+**Dernière mise à jour :** 25/08/2025 à 20:20
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 123 |
+| 🚴 **Vélos disponibles** | 132 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 44% |
+| 📊 **Taux d'occupation** | 49% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Hôtel de Ville (100%)
+- **Station la plus fréquentée :** Corum (100%)
 - **Station la moins fréquentée :** Foch (0%)
 
 ## 🌐 Site Web Interactif
