@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 24/08/2025 à 20:19
+**Dernière mise à jour :** 25/08/2025 à 08:27
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 127 |
+| 🚴 **Vélos disponibles** | 123 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 46% |
+| 📊 **Taux d'occupation** | 44% |
 
 ### 🏆 Performances des stations
 
 - **Station la plus fréquentée :** Hôtel de Ville (100%)
-- **Station la moins fréquentée :** Halles Castellane (0%)
+- **Station la moins fréquentée :** Foch (0%)
 
 ## 🌐 Site Web Interactif
 
