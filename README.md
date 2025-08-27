@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 26/08/2025 à 20:20
+**Dernière mise à jour :** 27/08/2025 à 08:24
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 144 |
+| 🚴 **Vélos disponibles** | 131 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 51% |
+| 📊 **Taux d'occupation** | 48% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Corum (100%)
-- **Station la moins fréquentée :** Foch (0%)
+- **Station la plus fréquentée :** Comédie (95%)
+- **Station la moins fréquentée :** Observatoire (25%)
 
 ## 🌐 Site Web Interactif
 
