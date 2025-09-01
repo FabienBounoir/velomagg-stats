@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 01/09/2025 à 08:27
+**Dernière mise à jour :** 01/09/2025 à 20:19
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 123 |
+| 🚴 **Vélos disponibles** | 131 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 45% |
+| 📊 **Taux d'occupation** | 50% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Emile Combes (87%)
-- **Station la moins fréquentée :** Foch (0%)
+- **Station la plus fréquentée :** Corum (100%)
+- **Station la moins fréquentée :** Rue Jules Ferry - Gare Saint-Roch (8%)
 
 ## 🌐 Site Web Interactif
 
