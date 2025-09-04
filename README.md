@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 03/09/2025 à 20:19
+**Dernière mise à jour :** 04/09/2025 à 08:23
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 154 |
+| 🚴 **Vélos disponibles** | 121 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 58% |
+| 📊 **Taux d'occupation** | 44% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Foch (100%)
-- **Station la moins fréquentée :** Rondelet (6%)
+- **Station la plus fréquentée :** Antigone centre (83%)
+- **Station la moins fréquentée :** Observatoire (12%)
 
 ## 🌐 Site Web Interactif
 
