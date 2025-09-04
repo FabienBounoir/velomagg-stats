@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 04/09/2025 à 08:23
+**Dernière mise à jour :** 04/09/2025 à 20:19
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 121 |
+| 🚴 **Vélos disponibles** | 140 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 44% |
+| 📊 **Taux d'occupation** | 48% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Antigone centre (83%)
-- **Station la moins fréquentée :** Observatoire (12%)
+- **Station la plus fréquentée :** Halles Castellane (100%)
+- **Station la moins fréquentée :** Gambetta (12%)
 
 ## 🌐 Site Web Interactif
 
