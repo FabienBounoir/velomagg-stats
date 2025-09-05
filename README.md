@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 05/09/2025 à 08:24
+**Dernière mise à jour :** 05/09/2025 à 20:19
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 102 |
+| 🚴 **Vélos disponibles** | 127 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 37% |
+| 📊 **Taux d'occupation** | 45% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Boutonnet (83%)
-- **Station la moins fréquentée :** Louis Blanc (6%)
+- **Station la plus fréquentée :** Port Marianne (87%)
+- **Station la moins fréquentée :** Rondelet (0%)
 
 ## 🌐 Site Web Interactif
 
