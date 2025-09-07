@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 06/09/2025 à 20:17
+**Dernière mise à jour :** 07/09/2025 à 08:20
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 122 |
+| 🚴 **Vélos disponibles** | 94 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 44% |
+| 📊 **Taux d'occupation** | 33% |
 
 ### 🏆 Performances des stations
 
 - **Station la plus fréquentée :** Boutonnet (91%)
-- **Station la moins fréquentée :** Hôtel de Ville (12%)
+- **Station la moins fréquentée :** Foch (0%)
 
 ## 🌐 Site Web Interactif
 
