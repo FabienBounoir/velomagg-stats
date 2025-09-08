@@ -1,7 +1,7 @@
 {
   "api": {
     "version": "1.0",
-    "last_update": "2025-09-08T08:27:13Z",
+    "last_update": "2025-09-08T20:20:38Z",
     "endpoints": {
       "csv": "velomagg_analysis.csv",
       "json": "velomagg_analysis_stats.json",

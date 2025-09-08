@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 08/09/2025 à 08:27
+**Dernière mise à jour :** 08/09/2025 à 20:20
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 114 |
+| 🚴 **Vélos disponibles** | 125 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 41% |
+| 📊 **Taux d'occupation** | 46% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Les Aubes (100%)
-- **Station la moins fréquentée :** Foch (0%)
+- **Station la plus fréquentée :** Louis Blanc (93%)
+- **Station la moins fréquentée :** Rondelet (12%)
 
 ## 🌐 Site Web Interactif
 
