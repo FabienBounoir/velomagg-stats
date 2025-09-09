@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 09/09/2025 à 08:25
+**Dernière mise à jour :** 09/09/2025 à 20:20
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 98 |
+| 🚴 **Vélos disponibles** | 123 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 38% |
+| 📊 **Taux d'occupation** | 47% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Observatoire (87%)
-- **Station la moins fréquentée :** Rondelet (6%)
+- **Station la plus fréquentée :** Foch (100%)
+- **Station la moins fréquentée :** Halles Castellane (16%)
 
 ## 🌐 Site Web Interactif
 
