@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 11/09/2025 à 08:24
+**Dernière mise à jour :** 11/09/2025 à 20:17
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 116 |
+| 🚴 **Vélos disponibles** | 156 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 42% |
+| 📊 **Taux d'occupation** | 57% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Emile Combes (75%)
-- **Station la moins fréquentée :** Observatoire (12%)
+- **Station la plus fréquentée :** Observatoire (100%)
+- **Station la moins fréquentée :** Boutonnet (8%)
 
 ## 🌐 Site Web Interactif
 
