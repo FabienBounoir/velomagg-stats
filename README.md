@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 12/09/2025 à 08:23
+**Dernière mise à jour :** 12/09/2025 à 20:19
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 101 |
+| 🚴 **Vélos disponibles** | 138 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 36% |
+| 📊 **Taux d'occupation** | 51% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Hôtel de Ville (87%)
-- **Station la moins fréquentée :** Foch (0%)
+- **Station la plus fréquentée :** Port Marianne (87%)
+- **Station la moins fréquentée :** Rue Jules Ferry - Gare Saint-Roch (8%)
 
 ## 🌐 Site Web Interactif
 
