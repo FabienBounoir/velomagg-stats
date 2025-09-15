@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 15/09/2025 à 08:25
+**Dernière mise à jour :** 15/09/2025 à 20:19
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 107 |
+| 🚴 **Vélos disponibles** | 123 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 38% |
+| 📊 **Taux d'occupation** | 42% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Comédie (70%)
-- **Station la moins fréquentée :** Observatoire (0%)
+- **Station la plus fréquentée :** Corum (100%)
+- **Station la moins fréquentée :** Médiathèque Emile Zola (0%)
 
 ## 🌐 Site Web Interactif
 
