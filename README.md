@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 16/09/2025 à 08:25
+**Dernière mise à jour :** 16/09/2025 à 20:20
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 118 |
+| 🚴 **Vélos disponibles** | 135 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 43% |
+| 📊 **Taux d'occupation** | 45% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Les Aubes (87%)
-- **Station la moins fréquentée :** Gambetta (12%)
+- **Station la plus fréquentée :** Corum (100%)
+- **Station la moins fréquentée :** Foch (0%)
 
 ## 🌐 Site Web Interactif
 
