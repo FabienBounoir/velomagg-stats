@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 18/09/2025 à 08:23
+**Dernière mise à jour :** 18/09/2025 à 20:20
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 112 |
+| 🚴 **Vélos disponibles** | 113 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 40% |
+| 📊 **Taux d'occupation** | 41% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Antigone centre (83%)
-- **Station la moins fréquentée :** Foch (0%)
+- **Station la plus fréquentée :** Hôtel de Ville (93%)
+- **Station la moins fréquentée :** Comédie (5%)
 
 ## 🌐 Site Web Interactif
 
