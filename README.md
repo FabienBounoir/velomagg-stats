@@ -4,18 +4,18 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 17/09/2025 à 20:19
+**Dernière mise à jour :** 18/09/2025 à 08:23
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 143 |
+| 🚴 **Vélos disponibles** | 112 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 49% |
+| 📊 **Taux d'occupation** | 40% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Corum (91%)
+- **Station la plus fréquentée :** Antigone centre (83%)
 - **Station la moins fréquentée :** Foch (0%)
 
 ## 🌐 Site Web Interactif
