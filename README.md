@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 19/09/2025 à 08:24
+**Dernière mise à jour :** 19/09/2025 à 20:19
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 112 |
+| 🚴 **Vélos disponibles** | 150 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 42% |
+| 📊 **Taux d'occupation** | 54% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Les Aubes (87%)
-- **Station la moins fréquentée :** Observatoire (12%)
+- **Station la plus fréquentée :** Observatoire (100%)
+- **Station la moins fréquentée :** Les Aubes (12%)
 
 ## 🌐 Site Web Interactif
 
