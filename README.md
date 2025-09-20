@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 20/09/2025 à 08:21
+**Dernière mise à jour :** 20/09/2025 à 20:17
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 118 |
+| 🚴 **Vélos disponibles** | 102 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 45% |
+| 📊 **Taux d'occupation** | 39% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Antigone centre (83%)
-- **Station la moins fréquentée :** Place Albert 1er - St Charles (11%)
+- **Station la plus fréquentée :** Boutonnet (91%)
+- **Station la moins fréquentée :** Comédie (5%)
 
 ## 🌐 Site Web Interactif
 
