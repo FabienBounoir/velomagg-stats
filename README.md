@@ -4,18 +4,18 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 26/09/2025 à 20:19
+**Dernière mise à jour :** 27/09/2025 à 08:20
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 129 |
+| 🚴 **Vélos disponibles** | 125 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 46% |
+| 📊 **Taux d'occupation** | 44% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Louis Blanc (93%)
+- **Station la plus fréquentée :** Port Marianne (81%)
 - **Station la moins fréquentée :** Rue Jules Ferry - Gare Saint-Roch (0%)
 
 ## 🌐 Site Web Interactif
