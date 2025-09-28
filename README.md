@@ -4,18 +4,18 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 28/09/2025 à 08:20
+**Dernière mise à jour :** 28/09/2025 à 20:18
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 91 |
+| 🚴 **Vélos disponibles** | 105 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 33% |
+| 📊 **Taux d'occupation** | 37% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Port Marianne (100%)
+- **Station la plus fréquentée :** Observatoire (87%)
 - **Station la moins fréquentée :** Comédie (0%)
 
 ## 🌐 Site Web Interactif
