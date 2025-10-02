@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 01/10/2025 à 20:21
+**Dernière mise à jour :** 02/10/2025 à 08:23
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 130 |
+| 🚴 **Vélos disponibles** | 115 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 47% |
+| 📊 **Taux d'occupation** | 42% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Corum (91%)
-- **Station la moins fréquentée :** Boutonnet (0%)
+- **Station la plus fréquentée :** Beaux-Arts (81%)
+- **Station la moins fréquentée :** Médiathèque Emile Zola (6%)
 
 ## 🌐 Site Web Interactif
 
