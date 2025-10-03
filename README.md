@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 02/10/2025 à 20:20
+**Dernière mise à jour :** 03/10/2025 à 08:23
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 123 |
+| 🚴 **Vélos disponibles** | 108 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 43% |
+| 📊 **Taux d'occupation** | 37% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Observatoire (112%)
-- **Station la moins fréquentée :** Boutonnet (0%)
+- **Station la plus fréquentée :** Beaux-Arts (81%)
+- **Station la moins fréquentée :** Médiathèque Emile Zola (0%)
 
 ## 🌐 Site Web Interactif
 
