@@ -4,18 +4,18 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 09/10/2025 à 08:25
+**Dernière mise à jour :** 09/10/2025 à 20:21
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 127 |
+| 🚴 **Vélos disponibles** | 139 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 45% |
+| 📊 **Taux d'occupation** | 50% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Boutonnet (100%)
+- **Station la plus fréquentée :** Observatoire (100%)
 - **Station la moins fréquentée :** Rondelet (0%)
 
 ## 🌐 Site Web Interactif
