@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 11/10/2025 à 20:17
+**Dernière mise à jour :** 12/10/2025 à 08:21
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 133 |
+| 🚴 **Vélos disponibles** | 109 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 45% |
+| 📊 **Taux d'occupation** | 38% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Boutonnet (91%)
-- **Station la moins fréquentée :** Rondelet (0%)
+- **Station la plus fréquentée :** Médiathèque Emile Zola (93%)
+- **Station la moins fréquentée :** Comédie (0%)
 
 ## 🌐 Site Web Interactif
 
