@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 14/10/2025 à 08:23
+**Dernière mise à jour :** 14/10/2025 à 20:20
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 127 |
+| 🚴 **Vélos disponibles** | 138 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 43% |
+| 📊 **Taux d'occupation** | 47% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Port Marianne (75%)
-- **Station la moins fréquentée :** Rondelet (18%)
+- **Station la plus fréquentée :** Corum (100%)
+- **Station la moins fréquentée :** Rondelet (0%)
 
 ## 🌐 Site Web Interactif
 
