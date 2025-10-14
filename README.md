@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 13/10/2025 à 20:20
+**Dernière mise à jour :** 14/10/2025 à 08:23
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 141 |
+| 🚴 **Vélos disponibles** | 127 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 48% |
+| 📊 **Taux d'occupation** | 43% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Louis Blanc (87%)
-- **Station la moins fréquentée :** Emile Combes (12%)
+- **Station la plus fréquentée :** Port Marianne (75%)
+- **Station la moins fréquentée :** Rondelet (18%)
 
 ## 🌐 Site Web Interactif
 
