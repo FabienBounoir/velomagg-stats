@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 15/10/2025 à 08:27
+**Dernière mise à jour :** 15/10/2025 à 20:21
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 131 |
+| 🚴 **Vélos disponibles** | 136 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 46% |
+| 📊 **Taux d'occupation** | 50% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Beaux-Arts (75%)
-- **Station la moins fréquentée :** Rondelet (6%)
+- **Station la plus fréquentée :** Antigone centre (100%)
+- **Station la moins fréquentée :** Halles Castellane (8%)
 
 ## 🌐 Site Web Interactif
 
