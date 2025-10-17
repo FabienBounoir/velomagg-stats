@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 17/10/2025 à 08:26
+**Dernière mise à jour :** 17/10/2025 à 20:20
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 80 |
+| 🚴 **Vélos disponibles** | 91 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 31% |
+| 📊 **Taux d'occupation** | 34% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Beaux-Arts (93%)
-- **Station la moins fréquentée :** Nombre d Or (0%)
+- **Station la plus fréquentée :** Observatoire (62%)
+- **Station la moins fréquentée :** Rondelet (6%)
 
 ## 🌐 Site Web Interactif
 
