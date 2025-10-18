@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 18/10/2025 à 08:22
+**Dernière mise à jour :** 18/10/2025 à 20:18
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 79 |
+| 🚴 **Vélos disponibles** | 111 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 30% |
+| 📊 **Taux d'occupation** | 42% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Boutonnet (58%)
-- **Station la moins fréquentée :** Rondelet (0%)
+- **Station la plus fréquentée :** Les Aubes (100%)
+- **Station la moins fréquentée :** Gambetta (0%)
 
 ## 🌐 Site Web Interactif
 
