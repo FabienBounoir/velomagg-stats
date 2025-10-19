@@ -4,18 +4,18 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 19/10/2025 à 08:21
+**Dernière mise à jour :** 19/10/2025 à 20:19
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 98 |
+| 🚴 **Vélos disponibles** | 103 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 35% |
+| 📊 **Taux d'occupation** | 37% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Beaux-Arts (93%)
+- **Station la plus fréquentée :** Les Aubes (87%)
 - **Station la moins fréquentée :** Corum (0%)
 
 ## 🌐 Site Web Interactif
