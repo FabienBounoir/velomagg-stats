@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 22/10/2025 à 20:23
+**Dernière mise à jour :** 23/10/2025 à 08:26
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 134 |
+| 🚴 **Vélos disponibles** | 113 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 49% |
+| 📊 **Taux d'occupation** | 42% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Beaux-Arts (93%)
-- **Station la moins fréquentée :** Foch (12%)
+- **Station la plus fréquentée :** Les Aubes (75%)
+- **Station la moins fréquentée :** Place Albert 1er - St Charles (3%)
 
 ## 🌐 Site Web Interactif
 
