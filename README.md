@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 24/10/2025 à 08:25
+**Dernière mise à jour :** 24/10/2025 à 20:21
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 91 |
+| 🚴 **Vélos disponibles** | 134 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 32% |
+| 📊 **Taux d'occupation** | 49% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Comédie (65%)
-- **Station la moins fréquentée :** Rue Jules Ferry - Gare Saint-Roch (8%)
+- **Station la plus fréquentée :** Port Marianne (100%)
+- **Station la moins fréquentée :** Comédie (0%)
 
 ## 🌐 Site Web Interactif
 
