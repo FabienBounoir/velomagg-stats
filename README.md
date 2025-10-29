@@ -4,18 +4,18 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 29/10/2025 à 08:26
+**Dernière mise à jour :** 29/10/2025 à 20:22
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 112 |
+| 🚴 **Vélos disponibles** | 116 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 43% |
+| 📊 **Taux d'occupation** | 44% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Les Aubes (87%)
+- **Station la plus fréquentée :** Comédie (85%)
 - **Station la moins fréquentée :** Hôtel de Ville (6%)
 
 ## 🌐 Site Web Interactif
