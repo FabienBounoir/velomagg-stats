@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 28/10/2025 à 20:22
+**Dernière mise à jour :** 29/10/2025 à 08:26
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 118 |
+| 🚴 **Vélos disponibles** | 112 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 44% |
+| 📊 **Taux d'occupation** | 43% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Observatoire (100%)
-- **Station la moins fréquentée :** Rue Jules Ferry - Gare Saint-Roch (8%)
+- **Station la plus fréquentée :** Les Aubes (87%)
+- **Station la moins fréquentée :** Hôtel de Ville (6%)
 
 ## 🌐 Site Web Interactif
 
