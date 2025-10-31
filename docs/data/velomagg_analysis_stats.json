@@ -2,21 +2,21 @@
   "general": {
     "total_stations": 20,
     "working_stations": 20,
-    "total_bikes": "100",
+    "total_bikes": "110",
     "total_capacity": "271",
-    "average_occupancy": 0.3783564814814815,
-    "median_occupancy": 0.39583333333333337
+    "average_occupancy": 0.4328935185185185,
+    "median_occupancy": 0.3935185185185185
   },
   "distribution": {
     "bikes_per_station": {
-      "mean": 5.0,
-      "std": 2.5955427380922007,
+      "mean": 5.5,
+      "std": 3.03488489333442,
       "min": "1",
       "max": "10",
       "quartiles": {
-        "0.25": 3.5,
+        "0.25": 3.0,
         "0.5": 5.0,
-        "0.75": 7.0
+        "0.75": 8.0
       }
     },
     "capacity_per_station": {
@@ -28,60 +28,60 @@
   },
   "extremes": {
     "most_occupied": {
-      "id": "urn:ngsi-ld:station:015",
-      "address": "Les Aubes",
+      "id": "urn:ngsi-ld:station:020",
+      "address": "Gambetta",
       "locality": "Montpellier",
-      "available_bikes": 7,
-      "free_slots": 1,
+      "available_bikes": 8,
+      "free_slots": 0,
       "total_slots": 8,
       "status": "working",
-      "latitude": 43.618692,
-      "longitude": 3.893844,
-      "last_update": "2025-10-31T09:25:09.000Z",
-      "occupancy_rate": 0.875,
-      "utilization_rate": 0.875
+      "latitude": 43.607106,
+      "longitude": 3.870693,
+      "last_update": "2025-10-31T21:21:08.000Z",
+      "occupancy_rate": 1.0,
+      "utilization_rate": 1.0
     },
     "least_occupied": {
-      "id": "urn:ngsi-ld:station:007",
-      "address": "Foch",
+      "id": "urn:ngsi-ld:station:017",
+      "address": "Médiathèque Emile Zola",
       "locality": "Montpellier",
       "available_bikes": 1,
-      "free_slots": 3,
-      "total_slots": 8,
+      "free_slots": 15,
+      "total_slots": 16,
       "status": "working",
-      "latitude": 43.610989,
-      "longitude": 3.873345,
-      "last_update": "2025-10-31T09:25:09.000Z",
-      "occupancy_rate": 0.125,
-      "utilization_rate": 0.625
+      "latitude": 43.608218,
+      "longitude": 3.89314,
+      "last_update": "2025-10-31T21:21:08.000Z",
+      "occupancy_rate": 0.0625,
+      "utilization_rate": 0.0625
     },
     "largest_station": {
       "id": "urn:ngsi-ld:station:006",
       "address": "Place Albert 1er - St Charles",
       "locality": "Montpellier",
-      "available_bikes": 8,
-      "free_slots": 19,
+      "available_bikes": 10,
+      "free_slots": 17,
       "total_slots": 27,
       "status": "working",
       "latitude": 43.616768,
       "longitude": 3.873375,
-      "last_update": "2025-10-31T09:25:09.000Z",
-      "occupancy_rate": 0.2962962962962963,
-      "utilization_rate": 0.2962962962962963
+      "last_update": "2025-10-31T21:21:08.000Z",
+      "occupancy_rate": 0.37037037037037035,
+      "utilization_rate": 0.37037037037037035
     },
     "smallest_station": {
       "id": "urn:ngsi-ld:station:007",
       "address": "Foch",
       "locality": "Montpellier",
-      "available_bikes": 1,
-      "free_slots": 3,
+      "available_bikes": 2,
+      "free_slots": 2,
       "total_slots": 8,
       "status": "working",
       "latitude": 43.610989,
       "longitude": 3.873345,
-      "last_update": "2025-10-31T09:25:09.000Z",
-      "occupancy_rate": 0.125,
-      "utilization_rate": 0.625
+      "last_update": "2025-10-31T21:21:08.000Z",
+      "occupancy_rate": 0.25,
+      "utilization_rate": 0.75
     }
   }
 }
