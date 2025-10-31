@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 30/10/2025 à 20:21
+**Dernière mise à jour :** 31/10/2025 à 08:25
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 121 |
+| 🚴 **Vélos disponibles** | 100 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 44% |
+| 📊 **Taux d'occupation** | 37% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Louis Blanc (81%)
-- **Station la moins fréquentée :** Halles Castellane (0%)
+- **Station la plus fréquentée :** Les Aubes (87%)
+- **Station la moins fréquentée :** Foch (12%)
 
 ## 🌐 Site Web Interactif
 
