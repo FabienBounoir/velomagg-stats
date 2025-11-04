@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 04/11/2025 à 08:26
+**Dernière mise à jour :** 04/11/2025 à 20:22
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 126 |
+| 🚴 **Vélos disponibles** | 136 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 47% |
+| 📊 **Taux d'occupation** | 49% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Antigone centre (83%)
-- **Station la moins fréquentée :** Rondelet (6%)
+- **Station la plus fréquentée :** Antigone centre (100%)
+- **Station la moins fréquentée :** Gambetta (12%)
 
 ## 🌐 Site Web Interactif
 
