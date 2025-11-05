@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 05/11/2025 à 08:26
+**Dernière mise à jour :** 05/11/2025 à 20:22
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 119 |
+| 🚴 **Vélos disponibles** | 144 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 43% |
+| 📊 **Taux d'occupation** | 51% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Emile Combes (75%)
-- **Station la moins fréquentée :** Plan Cabanes (8%)
+- **Station la plus fréquentée :** Louis Blanc (87%)
+- **Station la moins fréquentée :** Gambetta (12%)
 
 ## 🌐 Site Web Interactif
 
