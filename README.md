@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 06/11/2025 à 08:26
+**Dernière mise à jour :** 06/11/2025 à 20:22
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 124 |
+| 🚴 **Vélos disponibles** | 134 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 45% |
+| 📊 **Taux d'occupation** | 49% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Beaux-Arts (81%)
-- **Station la moins fréquentée :** Gambetta (12%)
+- **Station la plus fréquentée :** Louis Blanc (93%)
+- **Station la moins fréquentée :** Halles Castellane (25%)
 
 ## 🌐 Site Web Interactif
 
