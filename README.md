@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 08/11/2025 à 20:18
+**Dernière mise à jour :** 09/11/2025 à 08:21
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 133 |
+| 🚴 **Vélos disponibles** | 86 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 46% |
+| 📊 **Taux d'occupation** | 33% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Emile Combes (87%)
-- **Station la moins fréquentée :** Foch (12%)
+- **Station la plus fréquentée :** Hôtel de Ville (100%)
+- **Station la moins fréquentée :** Médiathèque Emile Zola (0%)
 
 ## 🌐 Site Web Interactif
 
