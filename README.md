@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 10/11/2025 à 08:27
+**Dernière mise à jour :** 10/11/2025 à 20:23
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 86 |
+| 🚴 **Vélos disponibles** | 116 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 35% |
+| 📊 **Taux d'occupation** | 42% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Les Aubes (87%)
-- **Station la moins fréquentée :** Place Albert 1er - St Charles (3%)
+- **Station la plus fréquentée :** Comédie (90%)
+- **Station la moins fréquentée :** Rue Jules Ferry - Gare Saint-Roch (0%)
 
 ## 🌐 Site Web Interactif
 
