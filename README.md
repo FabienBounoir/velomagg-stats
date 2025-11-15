@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 14/11/2025 à 20:22
+**Dernière mise à jour :** 15/11/2025 à 08:22
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 128 |
+| 🚴 **Vélos disponibles** | 117 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 46% |
+| 📊 **Taux d'occupation** | 39% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Les Aubes (87%)
-- **Station la moins fréquentée :** Boutonnet (16%)
+- **Station la plus fréquentée :** Place Albert 1er - St Charles (100%)
+- **Station la moins fréquentée :** Gambetta (0%)
 
 ## 🌐 Site Web Interactif
 
