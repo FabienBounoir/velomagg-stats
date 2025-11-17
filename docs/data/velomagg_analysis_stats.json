@@ -2,21 +2,21 @@
   "general": {
     "total_stations": 20,
     "working_stations": 20,
-    "total_bikes": "102",
+    "total_bikes": "90",
     "total_capacity": "271",
-    "average_occupancy": 0.34594907407407405,
-    "median_occupancy": 0.3333333333333333
+    "average_occupancy": 0.31407407407407406,
+    "median_occupancy": 0.25
   },
   "distribution": {
     "bikes_per_station": {
-      "mean": 5.1,
-      "std": 5.300446853059208,
+      "mean": 4.5,
+      "std": 4.110320771193565,
       "min": "0",
-      "max": "16",
+      "max": "14",
       "quartiles": {
-        "0.25": 1.0,
-        "0.5": 4.0,
-        "0.75": 6.0
+        "0.25": 2.0,
+        "0.5": 3.0,
+        "0.75": 5.25
       }
     },
     "capacity_per_station": {
@@ -28,30 +28,30 @@
   },
   "extremes": {
     "most_occupied": {
-      "id": "urn:ngsi-ld:station:021",
-      "address": "Port Marianne",
+      "id": "urn:ngsi-ld:station:017",
+      "address": "Médiathèque Emile Zola",
       "locality": "Montpellier",
-      "available_bikes": 16,
-      "free_slots": 0,
+      "available_bikes": 14,
+      "free_slots": 2,
       "total_slots": 16,
       "status": "working",
-      "latitude": 43.60032,
-      "longitude": 3.89851,
-      "last_update": "2025-11-16T21:20:08.000Z",
-      "occupancy_rate": 1.0,
-      "utilization_rate": 1.0
+      "latitude": 43.608218,
+      "longitude": 3.89314,
+      "last_update": "2025-11-17T09:28:07.000Z",
+      "occupancy_rate": 0.875,
+      "utilization_rate": 0.875
     },
     "least_occupied": {
-      "id": "urn:ngsi-ld:station:002",
-      "address": "Comédie",
+      "id": "urn:ngsi-ld:station:008",
+      "address": "Halles Castellane",
       "locality": "Montpellier",
       "available_bikes": 0,
-      "free_slots": 20,
-      "total_slots": 20,
+      "free_slots": 12,
+      "total_slots": 12,
       "status": "working",
-      "latitude": 43.608148,
-      "longitude": 3.878778,
-      "last_update": "2025-11-16T21:20:08.000Z",
+      "latitude": 43.609935,
+      "longitude": 3.877208,
+      "last_update": "2025-11-17T09:28:07.000Z",
       "occupancy_rate": 0.0,
       "utilization_rate": 0.0
     },
@@ -65,7 +65,7 @@
       "status": "working",
       "latitude": 43.616768,
       "longitude": 3.873375,
-      "last_update": "2025-11-16T21:20:08.000Z",
+      "last_update": "2025-11-17T09:28:07.000Z",
       "occupancy_rate": 0.48148148148148145,
       "utilization_rate": 0.48148148148148145
     },
@@ -79,7 +79,7 @@
       "status": "working",
       "latitude": 43.610989,
       "longitude": 3.873345,
-      "last_update": "2025-11-16T21:20:08.000Z",
+      "last_update": "2025-11-17T09:28:07.000Z",
       "occupancy_rate": 0.125,
       "utilization_rate": 0.625
     }
