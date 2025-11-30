@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 29/11/2025 à 20:21
+**Dernière mise à jour :** 30/11/2025 à 08:23
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 103 |
+| 🚴 **Vélos disponibles** | 86 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 38% |
+| 📊 **Taux d'occupation** | 32% |
 
 ### 🏆 Performances des stations
 
 - **Station la plus fréquentée :** Les Aubes (87%)
-- **Station la moins fréquentée :** Halles Castellane (0%)
+- **Station la moins fréquentée :** Rue Jules Ferry - Gare Saint-Roch (0%)
 
 ## 🌐 Site Web Interactif
 
