@@ -4,18 +4,18 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 02/12/2025 à 08:30
+**Dernière mise à jour :** 02/12/2025 à 20:25
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 107 |
+| 🚴 **Vélos disponibles** | 108 |
 | 📍 **Capacité totale** | 271 places |
 | 📊 **Taux d'occupation** | 39% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Antigone centre (75%)
+- **Station la plus fréquentée :** Port Marianne (81%)
 - **Station la moins fréquentée :** Halles Castellane (0%)
 
 ## 🌐 Site Web Interactif
