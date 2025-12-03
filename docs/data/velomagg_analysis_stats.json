@@ -2,20 +2,20 @@
   "general": {
     "total_stations": 20,
     "working_stations": 20,
-    "total_bikes": "101",
+    "total_bikes": "109",
     "total_capacity": "271",
-    "average_occupancy": 0.37268518518518523,
-    "median_occupancy": 0.35185185185185186
+    "average_occupancy": 0.40747685185185184,
+    "median_occupancy": 0.39583333333333337
   },
   "distribution": {
     "bikes_per_station": {
-      "mean": 5.05,
-      "std": 3.3478194002726767,
+      "mean": 5.45,
+      "std": 3.017056774233353,
       "min": "0",
-      "max": "13",
+      "max": "11",
       "quartiles": {
-        "0.25": 3.0,
-        "0.5": 4.5,
+        "0.25": 3.75,
+        "0.5": 5.0,
         "0.75": 7.0
       }
     },
@@ -28,18 +28,18 @@
   },
   "extremes": {
     "most_occupied": {
-      "id": "urn:ngsi-ld:station:015",
-      "address": "Les Aubes",
+      "id": "urn:ngsi-ld:station:001",
+      "address": "Rue Jules Ferry - Gare Saint-Roch",
       "locality": "Montpellier",
-      "available_bikes": 7,
-      "free_slots": 1,
-      "total_slots": 8,
+      "available_bikes": 9,
+      "free_slots": 3,
+      "total_slots": 12,
       "status": "working",
-      "latitude": 43.618692,
-      "longitude": 3.893844,
-      "last_update": "2025-12-03T09:28:06.000Z",
-      "occupancy_rate": 0.875,
-      "utilization_rate": 0.875
+      "latitude": 43.605366,
+      "longitude": 3.881346,
+      "last_update": "2025-12-03T21:24:06.000Z",
+      "occupancy_rate": 0.75,
+      "utilization_rate": 0.75
     },
     "least_occupied": {
       "id": "urn:ngsi-ld:station:008",
@@ -65,7 +65,7 @@
       "status": "working",
       "latitude": 43.616768,
       "longitude": 3.873375,
-      "last_update": "2025-12-03T09:28:06.000Z",
+      "last_update": "2025-12-03T21:24:06.000Z",
       "occupancy_rate": 0.37037037037037035,
       "utilization_rate": 0.37037037037037035
     },
@@ -73,15 +73,15 @@
       "id": "urn:ngsi-ld:station:007",
       "address": "Foch",
       "locality": "Montpellier",
-      "available_bikes": 1,
-      "free_slots": 3,
+      "available_bikes": 4,
+      "free_slots": 0,
       "total_slots": 8,
       "status": "working",
       "latitude": 43.610989,
       "longitude": 3.873345,
-      "last_update": "2025-12-03T09:28:06.000Z",
-      "occupancy_rate": 0.125,
-      "utilization_rate": 0.625
+      "last_update": "2025-12-03T21:24:06.000Z",
+      "occupancy_rate": 0.5,
+      "utilization_rate": 1.0
     }
   }
 }
