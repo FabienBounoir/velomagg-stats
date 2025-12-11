@@ -4,14 +4,14 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 11/12/2025 à 08:29
+**Dernière mise à jour :** 11/12/2025 à 20:24
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 110 |
+| 🚴 **Vélos disponibles** | 123 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 42% |
+| 📊 **Taux d'occupation** | 46% |
 
 ### 🏆 Performances des stations
 
