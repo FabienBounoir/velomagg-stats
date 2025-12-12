@@ -4,18 +4,18 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 12/12/2025 à 08:29
+**Dernière mise à jour :** 12/12/2025 à 20:23
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 99 |
+| 🚴 **Vélos disponibles** | 115 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 36% |
+| 📊 **Taux d'occupation** | 43% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Médiathèque Emile Zola (87%)
+- **Station la plus fréquentée :** Hôtel de Ville (81%)
 - **Station la moins fréquentée :** Halles Castellane (0%)
 
 ## 🌐 Site Web Interactif
