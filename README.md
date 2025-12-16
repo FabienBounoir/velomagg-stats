@@ -4,18 +4,18 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 15/12/2025 à 20:24
+**Dernière mise à jour :** 16/12/2025 à 08:30
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 124 |
+| 🚴 **Vélos disponibles** | 111 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 48% |
+| 📊 **Taux d'occupation** | 41% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Observatoire (87%)
+- **Station la plus fréquentée :** Beaux-Arts (87%)
 - **Station la moins fréquentée :** Halles Castellane (0%)
 
 ## 🌐 Site Web Interactif
