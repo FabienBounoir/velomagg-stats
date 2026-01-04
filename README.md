@@ -4,18 +4,18 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 04/01/2026 à 08:27
+**Dernière mise à jour :** 04/01/2026 à 20:23
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 96 |
+| 🚴 **Vélos disponibles** | 84 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 34% |
+| 📊 **Taux d'occupation** | 28% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Port Marianne (106%)
+- **Station la plus fréquentée :** Port Marianne (100%)
 - **Station la moins fréquentée :** Halles Castellane (0%)
 
 ## 🌐 Site Web Interactif
