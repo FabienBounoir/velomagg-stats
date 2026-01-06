@@ -4,18 +4,18 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 06/01/2026 à 08:31
+**Dernière mise à jour :** 06/01/2026 à 20:24
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 100 |
+| 🚴 **Vélos disponibles** | 118 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 36% |
+| 📊 **Taux d'occupation** | 43% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Rue Jules Ferry - Gare Saint-Roch (66%)
+- **Station la plus fréquentée :** Rue Jules Ferry - Gare Saint-Roch (83%)
 - **Station la moins fréquentée :** Halles Castellane (0%)
 
 ## 🌐 Site Web Interactif
