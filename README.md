@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 11/01/2026 à 08:27
+**Dernière mise à jour :** 11/01/2026 à 20:22
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 90 |
+| 🚴 **Vélos disponibles** | 93 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 34% |
+| 📊 **Taux d'occupation** | 35% |
 
 ### 🏆 Performances des stations
 
 - **Station la plus fréquentée :** Boutonnet (100%)
-- **Station la moins fréquentée :** Halles Castellane (0%)
+- **Station la moins fréquentée :** Rue Jules Ferry - Gare Saint-Roch (0%)
 
 ## 🌐 Site Web Interactif
 
