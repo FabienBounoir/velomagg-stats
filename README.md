@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 11/01/2026 à 20:22
+**Dernière mise à jour :** 12/01/2026 à 08:32
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 93 |
+| 🚴 **Vélos disponibles** | 101 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 35% |
+| 📊 **Taux d'occupation** | 38% |
 
 ### 🏆 Performances des stations
 
 - **Station la plus fréquentée :** Boutonnet (100%)
-- **Station la moins fréquentée :** Rue Jules Ferry - Gare Saint-Roch (0%)
+- **Station la moins fréquentée :** Corum (0%)
 
 ## 🌐 Site Web Interactif
 
