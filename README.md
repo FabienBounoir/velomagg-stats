@@ -4,18 +4,18 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 19/01/2026 à 20:24
+**Dernière mise à jour :** 20/01/2026 à 08:32
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 100 |
+| 🚴 **Vélos disponibles** | 101 |
 | 📍 **Capacité totale** | 271 places |
 | 📊 **Taux d'occupation** | 38% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Les Aubes (100%)
+- **Station la plus fréquentée :** Les Aubes (87%)
 - **Station la moins fréquentée :** Halles Castellane (0%)
 
 ## 🌐 Site Web Interactif
