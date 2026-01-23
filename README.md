@@ -4,7 +4,7 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 23/01/2026 à 08:30
+**Dernière mise à jour :** 23/01/2026 à 20:26
 
 | Métrique | Valeur |
 |----------|--------|
