@@ -2,21 +2,21 @@
   "general": {
     "total_stations": 20,
     "working_stations": 20,
-    "total_bikes": "128",
+    "total_bikes": "131",
     "total_capacity": "271",
-    "average_occupancy": 0.4579629629629629,
-    "median_occupancy": 0.45833333333333337
+    "average_occupancy": 0.4650694444444444,
+    "median_occupancy": 0.46875
   },
   "distribution": {
     "bikes_per_station": {
-      "mean": 6.4,
-      "std": 3.9788916732387203,
+      "mean": 6.55,
+      "std": 4.160908301649634,
       "min": "0",
-      "max": "16",
+      "max": "15",
       "quartiles": {
-        "0.25": 4.0,
-        "0.5": 5.0,
-        "0.75": 8.25
+        "0.25": 3.75,
+        "0.5": 6.0,
+        "0.75": 9.25
       }
     },
     "capacity_per_station": {
@@ -31,15 +31,15 @@
       "id": "urn:ngsi-ld:station:005",
       "address": "Corum",
       "locality": "Montpellier",
-      "available_bikes": 10,
-      "free_slots": 2,
+      "available_bikes": 11,
+      "free_slots": 1,
       "total_slots": 12,
       "status": "working",
       "latitude": 43.613989,
       "longitude": 3.8816,
-      "last_update": "2026-01-27T09:33:06.000Z",
-      "occupancy_rate": 0.8333333333333334,
-      "utilization_rate": 0.8333333333333334
+      "last_update": "2026-01-27T21:23:07.000Z",
+      "occupancy_rate": 0.9166666666666666,
+      "utilization_rate": 0.9166666666666666
     },
     "least_occupied": {
       "id": "urn:ngsi-ld:station:008",
@@ -59,15 +59,15 @@
       "id": "urn:ngsi-ld:station:006",
       "address": "Place Albert 1er - St Charles",
       "locality": "Montpellier",
-      "available_bikes": 16,
-      "free_slots": 11,
+      "available_bikes": 15,
+      "free_slots": 12,
       "total_slots": 27,
       "status": "working",
       "latitude": 43.616768,
       "longitude": 3.873375,
-      "last_update": "2026-01-27T09:33:06.000Z",
-      "occupancy_rate": 0.5925925925925926,
-      "utilization_rate": 0.5925925925925926
+      "last_update": "2026-01-27T21:23:07.000Z",
+      "occupancy_rate": 0.5555555555555556,
+      "utilization_rate": 0.5555555555555556
     },
     "smallest_station": {
       "id": "urn:ngsi-ld:station:007",
@@ -79,7 +79,7 @@
       "status": "working",
       "latitude": 43.610989,
       "longitude": 3.873345,
-      "last_update": "2026-01-27T09:33:06.000Z",
+      "last_update": "2026-01-27T21:23:07.000Z",
       "occupancy_rate": 0.125,
       "utilization_rate": 0.625
     }
