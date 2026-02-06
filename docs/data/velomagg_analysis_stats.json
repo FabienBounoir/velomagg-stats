@@ -2,21 +2,21 @@
   "general": {
     "total_stations": 20,
     "working_stations": 20,
-    "total_bikes": "100",
+    "total_bikes": "116",
     "total_capacity": "271",
-    "average_occupancy": 0.37657407407407406,
-    "median_occupancy": 0.39583333333333337
+    "average_occupancy": 0.4489814814814815,
+    "median_occupancy": 0.42708333333333337
   },
   "distribution": {
     "bikes_per_station": {
-      "mean": 5.0,
-      "std": 2.8469743865891624,
+      "mean": 5.8,
+      "std": 3.562967420859369,
       "min": "0",
-      "max": "10",
+      "max": "13",
       "quartiles": {
-        "0.25": 3.0,
-        "0.5": 5.5,
-        "0.75": 7.25
+        "0.25": 3.75,
+        "0.5": 5.0,
+        "0.75": 8.0
       }
     },
     "capacity_per_station": {
@@ -28,30 +28,30 @@
   },
   "extremes": {
     "most_occupied": {
-      "id": "urn:ngsi-ld:station:015",
-      "address": "Les Aubes",
+      "id": "urn:ngsi-ld:station:005",
+      "address": "Corum",
       "locality": "Montpellier",
-      "available_bikes": 7,
+      "available_bikes": 11,
       "free_slots": 1,
-      "total_slots": 8,
+      "total_slots": 12,
       "status": "working",
-      "latitude": 43.618692,
-      "longitude": 3.893844,
-      "last_update": "2026-02-06T09:40:07.000Z",
-      "occupancy_rate": 0.875,
-      "utilization_rate": 0.875
+      "latitude": 43.613989,
+      "longitude": 3.8816,
+      "last_update": "2026-02-06T21:34:09.000Z",
+      "occupancy_rate": 0.9166666666666666,
+      "utilization_rate": 0.9166666666666666
     },
     "least_occupied": {
-      "id": "urn:ngsi-ld:station:001",
-      "address": "Rue Jules Ferry - Gare Saint-Roch",
+      "id": "urn:ngsi-ld:station:008",
+      "address": "Halles Castellane",
       "locality": "Montpellier",
       "available_bikes": 0,
       "free_slots": 12,
       "total_slots": 12,
       "status": "working",
-      "latitude": 43.605366,
-      "longitude": 3.881346,
-      "last_update": "2026-02-06T09:40:07.000Z",
+      "latitude": 43.609935,
+      "longitude": 3.877208,
+      "last_update": "2025-11-17T14:20:08.000Z",
       "occupancy_rate": 0.0,
       "utilization_rate": 0.0
     },
@@ -59,29 +59,29 @@
       "id": "urn:ngsi-ld:station:006",
       "address": "Place Albert 1er - St Charles",
       "locality": "Montpellier",
-      "available_bikes": 4,
-      "free_slots": 23,
+      "available_bikes": 8,
+      "free_slots": 19,
       "total_slots": 27,
       "status": "working",
       "latitude": 43.616768,
       "longitude": 3.873375,
-      "last_update": "2026-02-06T09:40:07.000Z",
-      "occupancy_rate": 0.14814814814814814,
-      "utilization_rate": 0.14814814814814814
+      "last_update": "2026-02-06T21:34:09.000Z",
+      "occupancy_rate": 0.2962962962962963,
+      "utilization_rate": 0.2962962962962963
     },
     "smallest_station": {
       "id": "urn:ngsi-ld:station:007",
       "address": "Foch",
       "locality": "Montpellier",
-      "available_bikes": 3,
-      "free_slots": 4,
+      "available_bikes": 7,
+      "free_slots": 1,
       "total_slots": 8,
       "status": "working",
       "latitude": 43.610989,
       "longitude": 3.873345,
-      "last_update": "2026-02-06T09:40:07.000Z",
-      "occupancy_rate": 0.375,
-      "utilization_rate": 0.5
+      "last_update": "2026-02-06T21:34:09.000Z",
+      "occupancy_rate": 0.875,
+      "utilization_rate": 0.875
     }
   }
 }
