@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 15/02/2026 à 08:33
+**Dernière mise à jour :** 15/02/2026 à 20:27
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 81 |
+| 🚴 **Vélos disponibles** | 97 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 30% |
+| 📊 **Taux d'occupation** | 34% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Antigone centre (100%)
-- **Station la moins fréquentée :** Corum (0%)
+- **Station la plus fréquentée :** Comédie (95%)
+- **Station la moins fréquentée :** Halles Castellane (0%)
 
 ## 🌐 Site Web Interactif
 
