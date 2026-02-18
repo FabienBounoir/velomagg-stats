@@ -4,18 +4,18 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 17/02/2026 à 20:37
+**Dernière mise à jour :** 18/02/2026 à 08:43
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 125 |
+| 🚴 **Vélos disponibles** | 114 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 45% |
+| 📊 **Taux d'occupation** | 43% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Comédie (90%)
+- **Station la plus fréquentée :** Comédie (80%)
 - **Station la moins fréquentée :** Halles Castellane (0%)
 
 ## 🌐 Site Web Interactif
