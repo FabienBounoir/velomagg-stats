@@ -4,18 +4,18 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 15/03/2026 à 08:36
+**Dernière mise à jour :** 15/03/2026 à 20:30
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 118 |
+| 🚴 **Vélos disponibles** | 124 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 43% |
+| 📊 **Taux d'occupation** | 45% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Foch (100%)
+- **Station la plus fréquentée :** Beaux-Arts (100%)
 - **Station la moins fréquentée :** Halles Castellane (0%)
 
 ## 🌐 Site Web Interactif
