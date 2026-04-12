@@ -2,21 +2,21 @@
   "general": {
     "total_stations": 20,
     "working_stations": 20,
-    "total_bikes": "101",
+    "total_bikes": "103",
     "total_capacity": "271",
-    "average_occupancy": 0.3970138888888889,
-    "median_occupancy": 0.40625
+    "average_occupancy": 0.39222222222222225,
+    "median_occupancy": 0.375
   },
   "distribution": {
     "bikes_per_station": {
-      "mean": 5.05,
-      "std": 3.720144309594794,
+      "mean": 5.15,
+      "std": 3.773522715475624,
       "min": "0",
-      "max": "13",
+      "max": "16",
       "quartiles": {
-        "0.25": 2.0,
+        "0.25": 2.75,
         "0.5": 4.5,
-        "0.75": 7.25
+        "0.75": 6.5
       }
     },
     "capacity_per_station": {
@@ -28,17 +28,17 @@
   },
   "extremes": {
     "most_occupied": {
-      "id": "urn:ngsi-ld:station:012",
-      "address": "Boutonnet",
+      "id": "urn:ngsi-ld:station:021",
+      "address": "Port Marianne",
       "locality": "Montpellier",
-      "available_bikes": 11,
+      "available_bikes": 16,
       "free_slots": 0,
-      "total_slots": 12,
+      "total_slots": 16,
       "status": "working",
-      "latitude": 43.622629,
-      "longitude": 3.868375,
-      "last_update": "2026-04-12T10:48:07.000Z",
-      "occupancy_rate": 0.9166666666666666,
+      "latitude": 43.60032,
+      "longitude": 3.89851,
+      "last_update": "2026-04-12T22:36:08.000Z",
+      "occupancy_rate": 1.0,
       "utilization_rate": 1.0
     },
     "least_occupied": {
@@ -65,7 +65,7 @@
       "status": "working",
       "latitude": 43.616768,
       "longitude": 3.873375,
-      "last_update": "2026-04-12T10:48:07.000Z",
+      "last_update": "2026-04-12T22:36:08.000Z",
       "occupancy_rate": 0.1111111111111111,
       "utilization_rate": 0.1111111111111111
     },
@@ -73,15 +73,15 @@
       "id": "urn:ngsi-ld:station:007",
       "address": "Foch",
       "locality": "Montpellier",
-      "available_bikes": 3,
-      "free_slots": 5,
+      "available_bikes": 2,
+      "free_slots": 6,
       "total_slots": 8,
       "status": "working",
       "latitude": 43.610989,
       "longitude": 3.873345,
-      "last_update": "2026-04-12T10:48:07.000Z",
-      "occupancy_rate": 0.375,
-      "utilization_rate": 0.375
+      "last_update": "2026-04-12T22:36:08.000Z",
+      "occupancy_rate": 0.25,
+      "utilization_rate": 0.25
     }
   }
 }
