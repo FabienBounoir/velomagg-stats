@@ -4,18 +4,18 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 16/04/2026 à 09:19
+**Dernière mise à jour :** 16/04/2026 à 20:48
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 106 |
+| 🚴 **Vélos disponibles** | 126 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 41% |
+| 📊 **Taux d'occupation** | 47% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Emile Combes (87%)
+- **Station la plus fréquentée :** Hôtel de Ville (87%)
 - **Station la moins fréquentée :** Halles Castellane (0%)
 
 ## 🌐 Site Web Interactif
