@@ -4,19 +4,19 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 08/05/2026 à 20:59
+**Dernière mise à jour :** 09/05/2026 à 09:19
 
 | Métrique | Valeur |
 |----------|--------|
 | 🏢 **Stations totales** | 20 |
-| 🚴 **Vélos disponibles** | 109 |
+| 🚴 **Vélos disponibles** | 107 |
 | 📍 **Capacité totale** | 271 places |
-| 📊 **Taux d'occupation** | 43% |
+| 📊 **Taux d'occupation** | 41% |
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Port Marianne (106%)
-- **Station la moins fréquentée :** Rue Jules Ferry - Gare Saint-Roch (0%)
+- **Station la plus fréquentée :** Corum (91%)
+- **Station la moins fréquentée :** Halles Castellane (0%)
 
 ## 🌐 Site Web Interactif
 
