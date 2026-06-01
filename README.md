@@ -4,7 +4,7 @@
 
 ## 📊 Statistiques en temps réel
 
-**Dernière mise à jour :** 31/05/2026 à 20:59
+**Dernière mise à jour :** 01/06/2026 à 13:35
 
 | Métrique | Valeur |
 |----------|--------|
@@ -15,8 +15,8 @@
 
 ### 🏆 Performances des stations
 
-- **Station la plus fréquentée :** Nombre d Or (112%)
-- **Station la moins fréquentée :** Rue Jules Ferry - Gare Saint-Roch (0%)
+- **Station la plus fréquentée :** Emile Combes (100%)
+- **Station la moins fréquentée :** Halles Castellane (0%)
 
 ## 🌐 Site Web Interactif
 
