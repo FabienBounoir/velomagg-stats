@@ -17,7 +17,7 @@
             <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
             <style>
-                #map_40d2faaf6be218ccb065a8e1ad1e7ca7 {
+                #map_5857499c4c6c4547667febc5faecaceb {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -55,14 +55,14 @@
 <body>
     
     
-            <div class="folium-map" id="map_40d2faaf6be218ccb065a8e1ad1e7ca7" ></div>
+            <div class="folium-map" id="map_5857499c4c6c4547667febc5faecaceb" ></div>
         
 </body>
 <script>
     
     
-            var map_40d2faaf6be218ccb065a8e1ad1e7ca7 = L.map(
-                "map_40d2faaf6be218ccb065a8e1ad1e7ca7",
+            var map_5857499c4c6c4547667febc5faecaceb = L.map(
+                "map_5857499c4c6c4547667febc5faecaceb",
                 {
                     center: [43.61014805000001, 3.8813196],
                     crs: L.CRS.EPSG3857,
@@ -79,7 +79,7 @@
 
         
     
-            var tile_layer_212f24c98aac1b9f97c4badd8c885267 = L.tileLayer(
+            var tile_layer_d68b31542e5779b5f8f5c2af8b206fca = L.tileLayer(
                 "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
                 {
   "minZoom": 0,
@@ -96,47 +96,47 @@
             );
         
     
-            tile_layer_212f24c98aac1b9f97c4badd8c885267.addTo(map_40d2faaf6be218ccb065a8e1ad1e7ca7);
+            tile_layer_d68b31542e5779b5f8f5c2af8b206fca.addTo(map_5857499c4c6c4547667febc5faecaceb);
         
     
-            var marker_0f0a9e28ec398edb8840a5002658e7b5 = L.marker(
+            var marker_c75f751fce1f15278175e0ab2c8955ee = L.marker(
                 [43.605366, 3.881346],
                 {
 }
-            ).addTo(map_40d2faaf6be218ccb065a8e1ad1e7ca7);
+            ).addTo(map_5857499c4c6c4547667febc5faecaceb);
         
     
-            var icon_68c7bfd82628f33b14fdc661c74bf9a7 = L.AwesomeMarkers.icon(
+            var icon_3d439ada84e708887c0e57d5aac2bc27 = L.AwesomeMarkers.icon(
                 {
-  "markerColor": "blue",
+  "markerColor": "orange",
   "iconColor": "white",
-  "icon": "info-sign",
+  "icon": "warning-sign",
   "prefix": "glyphicon",
   "extraClasses": "fa-rotate-0",
 }
             );
         
     
-        var popup_a957be74971ff75da5d39a9ccd3030f6 = L.popup({
+        var popup_2e23c6514e2fbf95d8e59f34b4ff39d1 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_0d390a5d79980947c5bddc4aef619452 = $(`<div id="html_0d390a5d79980947c5bddc4aef619452" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Rue Jules Ferry - Gare Saint-Roch...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">2</span><br>                 • Places libres: <span style="color: blue;">10</span><br>                 • Capacité totale: 12<br>                 • Taux d'occupation: <span style="color: green;">16.7%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6054, 3.8813             </div>             </div>`)[0];
-                popup_a957be74971ff75da5d39a9ccd3030f6.setContent(html_0d390a5d79980947c5bddc4aef619452);
+                var html_a4f2bfd9ecaa7541b1fa307b83c5414b = $(`<div id="html_a4f2bfd9ecaa7541b1fa307b83c5414b" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Rue Jules Ferry - Gare Saint-Roch...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">8</span><br>                 • Places libres: <span style="color: blue;">4</span><br>                 • Capacité totale: 12<br>                 • Taux d'occupation: <span style="color: orange;">66.7%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6054, 3.8813             </div>             </div>`)[0];
+                popup_2e23c6514e2fbf95d8e59f34b4ff39d1.setContent(html_a4f2bfd9ecaa7541b1fa307b83c5414b);
             
         
 
-        marker_0f0a9e28ec398edb8840a5002658e7b5.bindPopup(popup_a957be74971ff75da5d39a9ccd3030f6)
+        marker_c75f751fce1f15278175e0ab2c8955ee.bindPopup(popup_2e23c6514e2fbf95d8e59f34b4ff39d1)
         ;
 
         
     
     
-            marker_0f0a9e28ec398edb8840a5002658e7b5.bindTooltip(
+            marker_c75f751fce1f15278175e0ab2c8955ee.bindTooltip(
                 `<div>
-                     Rue Jules Ferry - Gare Saint-R... - 2 vélos
+                     Rue Jules Ferry - Gare Saint-R... - 8 vélos
                  </div>`,
                 {
   "sticky": true,
@@ -144,47 +144,47 @@
             );
         
     
-                marker_0f0a9e28ec398edb8840a5002658e7b5.setIcon(icon_68c7bfd82628f33b14fdc661c74bf9a7);
+                marker_c75f751fce1f15278175e0ab2c8955ee.setIcon(icon_3d439ada84e708887c0e57d5aac2bc27);
             
     
-            var marker_06cea529bf03749f2edb4620d6d66e42 = L.marker(
+            var marker_282a95c01f3041cecadda1ec73226dde = L.marker(
                 [43.608148, 3.878778],
                 {
 }
-            ).addTo(map_40d2faaf6be218ccb065a8e1ad1e7ca7);
+            ).addTo(map_5857499c4c6c4547667febc5faecaceb);
         
     
-            var icon_a139b6795c296945a8789f9d2f15f645 = L.AwesomeMarkers.icon(
+            var icon_efcf3e07366edd1b05f0761c9f15daa8 = L.AwesomeMarkers.icon(
                 {
-  "markerColor": "green",
+  "markerColor": "blue",
   "iconColor": "white",
-  "icon": "ok-sign",
+  "icon": "info-sign",
   "prefix": "glyphicon",
   "extraClasses": "fa-rotate-0",
 }
             );
         
     
-        var popup_650fd636883c3d87f88e7692fab47775 = L.popup({
+        var popup_017daad7ee7ce89e75d7fa3a8a57df08 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_195e6c65f7e3e4624800a8897f6b22af = $(`<div id="html_195e6c65f7e3e4624800a8897f6b22af" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Comédie...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">8</span><br>                 • Places libres: <span style="color: blue;">10</span><br>                 • Capacité totale: 20<br>                 • Taux d'occupation: <span style="color: green;">40.0%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6081, 3.8788             </div>             </div>`)[0];
-                popup_650fd636883c3d87f88e7692fab47775.setContent(html_195e6c65f7e3e4624800a8897f6b22af);
+                var html_84652791ddefe126e67c663b2b81f64c = $(`<div id="html_84652791ddefe126e67c663b2b81f64c" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Comédie...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">3</span><br>                 • Places libres: <span style="color: blue;">15</span><br>                 • Capacité totale: 20<br>                 • Taux d'occupation: <span style="color: green;">15.0%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6081, 3.8788             </div>             </div>`)[0];
+                popup_017daad7ee7ce89e75d7fa3a8a57df08.setContent(html_84652791ddefe126e67c663b2b81f64c);
             
         
 
-        marker_06cea529bf03749f2edb4620d6d66e42.bindPopup(popup_650fd636883c3d87f88e7692fab47775)
+        marker_282a95c01f3041cecadda1ec73226dde.bindPopup(popup_017daad7ee7ce89e75d7fa3a8a57df08)
         ;
 
         
     
     
-            marker_06cea529bf03749f2edb4620d6d66e42.bindTooltip(
+            marker_282a95c01f3041cecadda1ec73226dde.bindTooltip(
                 `<div>
-                     Comédie... - 8 vélos
+                     Comédie... - 3 vélos
                  </div>`,
                 {
   "sticky": true,
@@ -192,161 +192,17 @@
             );
         
     
-                marker_06cea529bf03749f2edb4620d6d66e42.setIcon(icon_a139b6795c296945a8789f9d2f15f645);
+                marker_282a95c01f3041cecadda1ec73226dde.setIcon(icon_efcf3e07366edd1b05f0761c9f15daa8);
             
     
-            var marker_f51bb5fd52f4a7350c149c1a9a1418be = L.marker(
+            var marker_a7ad9421aaebee60754f10a41949ae1b = L.marker(
                 [43.599088, 3.894866],
                 {
 }
-            ).addTo(map_40d2faaf6be218ccb065a8e1ad1e7ca7);
+            ).addTo(map_5857499c4c6c4547667febc5faecaceb);
         
     
-            var icon_574a4d34950da1242b969562269ce420 = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "blue",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_1d1d80c480a7dc949e87a93dea235aa0 = L.popup({
-  "maxWidth": 300,
-});
-
-        
-            
-                var html_6210bce00c8aceab43abc55f4aee189d = $(`<div id="html_6210bce00c8aceab43abc55f4aee189d" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Hôtel de Ville...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">4</span><br>                 • Places libres: <span style="color: blue;">12</span><br>                 • Capacité totale: 16<br>                 • Taux d'occupation: <span style="color: green;">25.0%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.5991, 3.8949             </div>             </div>`)[0];
-                popup_1d1d80c480a7dc949e87a93dea235aa0.setContent(html_6210bce00c8aceab43abc55f4aee189d);
-            
-        
-
-        marker_f51bb5fd52f4a7350c149c1a9a1418be.bindPopup(popup_1d1d80c480a7dc949e87a93dea235aa0)
-        ;
-
-        
-    
-    
-            marker_f51bb5fd52f4a7350c149c1a9a1418be.bindTooltip(
-                `<div>
-                     Hôtel de Ville... - 4 vélos
-                 </div>`,
-                {
-  "sticky": true,
-}
-            );
-        
-    
-                marker_f51bb5fd52f4a7350c149c1a9a1418be.setIcon(icon_574a4d34950da1242b969562269ce420);
-            
-    
-            var marker_affd810f04e7f2b564acac113fba2045 = L.marker(
-                [43.613989, 3.8816],
-                {
-}
-            ).addTo(map_40d2faaf6be218ccb065a8e1ad1e7ca7);
-        
-    
-            var icon_38003e8b83e0a6a57e39a7988cf2f0b9 = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "blue",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_f875b967b11a43beb490cbffa51aa157 = L.popup({
-  "maxWidth": 300,
-});
-
-        
-            
-                var html_97032a8193b6929aa931e0c6c3544b5d = $(`<div id="html_97032a8193b6929aa931e0c6c3544b5d" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Corum...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">2</span><br>                 • Places libres: <span style="color: blue;">8</span><br>                 • Capacité totale: 12<br>                 • Taux d'occupation: <span style="color: green;">16.7%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6140, 3.8816             </div>             </div>`)[0];
-                popup_f875b967b11a43beb490cbffa51aa157.setContent(html_97032a8193b6929aa931e0c6c3544b5d);
-            
-        
-
-        marker_affd810f04e7f2b564acac113fba2045.bindPopup(popup_f875b967b11a43beb490cbffa51aa157)
-        ;
-
-        
-    
-    
-            marker_affd810f04e7f2b564acac113fba2045.bindTooltip(
-                `<div>
-                     Corum... - 2 vélos
-                 </div>`,
-                {
-  "sticky": true,
-}
-            );
-        
-    
-                marker_affd810f04e7f2b564acac113fba2045.setIcon(icon_38003e8b83e0a6a57e39a7988cf2f0b9);
-            
-    
-            var marker_05b301ad979984aecf48f6c1f712fba3 = L.marker(
-                [43.616768, 3.873375],
-                {
-}
-            ).addTo(map_40d2faaf6be218ccb065a8e1ad1e7ca7);
-        
-    
-            var icon_a08edb2a82f11770dff31a92a1f9bb5a = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "blue",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_662b67ea4c8e72a2025f4890d95cc8d2 = L.popup({
-  "maxWidth": 300,
-});
-
-        
-            
-                var html_d124067220f7cde185da7cfb47cf075b = $(`<div id="html_d124067220f7cde185da7cfb47cf075b" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Place Albert 1er - St Charles...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">5</span><br>                 • Places libres: <span style="color: blue;">21</span><br>                 • Capacité totale: 27<br>                 • Taux d'occupation: <span style="color: green;">18.5%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6168, 3.8734             </div>             </div>`)[0];
-                popup_662b67ea4c8e72a2025f4890d95cc8d2.setContent(html_d124067220f7cde185da7cfb47cf075b);
-            
-        
-
-        marker_05b301ad979984aecf48f6c1f712fba3.bindPopup(popup_662b67ea4c8e72a2025f4890d95cc8d2)
-        ;
-
-        
-    
-    
-            marker_05b301ad979984aecf48f6c1f712fba3.bindTooltip(
-                `<div>
-                     Place Albert 1er - St Charles... - 5 vélos
-                 </div>`,
-                {
-  "sticky": true,
-}
-            );
-        
-    
-                marker_05b301ad979984aecf48f6c1f712fba3.setIcon(icon_a08edb2a82f11770dff31a92a1f9bb5a);
-            
-    
-            var marker_1e55341c35bfce8a23681fa1020e47f6 = L.marker(
-                [43.610989, 3.873345],
-                {
-}
-            ).addTo(map_40d2faaf6be218ccb065a8e1ad1e7ca7);
-        
-    
-            var icon_3d3ea5d631a69d518e26f4dd126dec0d = L.AwesomeMarkers.icon(
+            var icon_d11a5cc0de37abfa3d6fee4cecc5fb39 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -357,26 +213,26 @@
             );
         
     
-        var popup_7d3d19a23245e079b0eaee0878e165a6 = L.popup({
+        var popup_dc43303b9be9692713d07c2402764b20 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_47e0c510ec2e666d9b6da8172deb28c1 = $(`<div id="html_47e0c510ec2e666d9b6da8172deb28c1" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Foch...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">3</span><br>                 • Places libres: <span style="color: blue;">5</span><br>                 • Capacité totale: 8<br>                 • Taux d'occupation: <span style="color: green;">37.5%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6110, 3.8733             </div>             </div>`)[0];
-                popup_7d3d19a23245e079b0eaee0878e165a6.setContent(html_47e0c510ec2e666d9b6da8172deb28c1);
+                var html_5e8112d89d5ce1e21aad2b6b52e3a263 = $(`<div id="html_5e8112d89d5ce1e21aad2b6b52e3a263" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Hôtel de Ville...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">5</span><br>                 • Places libres: <span style="color: blue;">11</span><br>                 • Capacité totale: 16<br>                 • Taux d'occupation: <span style="color: green;">31.2%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.5991, 3.8949             </div>             </div>`)[0];
+                popup_dc43303b9be9692713d07c2402764b20.setContent(html_5e8112d89d5ce1e21aad2b6b52e3a263);
             
         
 
-        marker_1e55341c35bfce8a23681fa1020e47f6.bindPopup(popup_7d3d19a23245e079b0eaee0878e165a6)
+        marker_a7ad9421aaebee60754f10a41949ae1b.bindPopup(popup_dc43303b9be9692713d07c2402764b20)
         ;
 
         
     
     
-            marker_1e55341c35bfce8a23681fa1020e47f6.bindTooltip(
+            marker_a7ad9421aaebee60754f10a41949ae1b.bindTooltip(
                 `<div>
-                     Foch... - 3 vélos
+                     Hôtel de Ville... - 5 vélos
                  </div>`,
                 {
   "sticky": true,
@@ -384,17 +240,17 @@
             );
         
     
-                marker_1e55341c35bfce8a23681fa1020e47f6.setIcon(icon_3d3ea5d631a69d518e26f4dd126dec0d);
+                marker_a7ad9421aaebee60754f10a41949ae1b.setIcon(icon_d11a5cc0de37abfa3d6fee4cecc5fb39);
             
     
-            var marker_3c089c9f5b65364bfc16fc1bcfdc8234 = L.marker(
-                [43.609935, 3.877208],
+            var marker_3e1cf1ddabf75ca4cd78beda7e5bbd23 = L.marker(
+                [43.613989, 3.8816],
                 {
 }
-            ).addTo(map_40d2faaf6be218ccb065a8e1ad1e7ca7);
+            ).addTo(map_5857499c4c6c4547667febc5faecaceb);
         
     
-            var icon_f4b1de1954950335f5b22a3127240c16 = L.AwesomeMarkers.icon(
+            var icon_114146a6da7c5a32779cd1360e687d78 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "blue",
   "iconColor": "white",
@@ -405,24 +261,168 @@
             );
         
     
-        var popup_8c8ec7c9fb315a4da22e95900001568f = L.popup({
+        var popup_4d3cbe9b068956c7deae6e331e8c4b31 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_f9b33a69a7f9fee8b66cefffe1880e85 = $(`<div id="html_f9b33a69a7f9fee8b66cefffe1880e85" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Halles Castellane...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">0</span><br>                 • Places libres: <span style="color: blue;">12</span><br>                 • Capacité totale: 12<br>                 • Taux d'occupation: <span style="color: green;">0.0%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6099, 3.8772             </div>             </div>`)[0];
-                popup_8c8ec7c9fb315a4da22e95900001568f.setContent(html_f9b33a69a7f9fee8b66cefffe1880e85);
+                var html_8d056b4533e59c847015ad00cad3f09b = $(`<div id="html_8d056b4533e59c847015ad00cad3f09b" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Corum...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">3</span><br>                 • Places libres: <span style="color: blue;">7</span><br>                 • Capacité totale: 12<br>                 • Taux d'occupation: <span style="color: green;">25.0%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6140, 3.8816             </div>             </div>`)[0];
+                popup_4d3cbe9b068956c7deae6e331e8c4b31.setContent(html_8d056b4533e59c847015ad00cad3f09b);
             
         
 
-        marker_3c089c9f5b65364bfc16fc1bcfdc8234.bindPopup(popup_8c8ec7c9fb315a4da22e95900001568f)
+        marker_3e1cf1ddabf75ca4cd78beda7e5bbd23.bindPopup(popup_4d3cbe9b068956c7deae6e331e8c4b31)
         ;
 
         
     
     
-            marker_3c089c9f5b65364bfc16fc1bcfdc8234.bindTooltip(
+            marker_3e1cf1ddabf75ca4cd78beda7e5bbd23.bindTooltip(
+                `<div>
+                     Corum... - 3 vélos
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_3e1cf1ddabf75ca4cd78beda7e5bbd23.setIcon(icon_114146a6da7c5a32779cd1360e687d78);
+            
+    
+            var marker_8b0a63f74d7b666e3e7c3bcec2d5a067 = L.marker(
+                [43.616768, 3.873375],
+                {
+}
+            ).addTo(map_5857499c4c6c4547667febc5faecaceb);
+        
+    
+            var icon_f2063b84f6231e3c2b3464779d35803b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "ok-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_88eecff18134d0eb6b193ce607514169 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_9408528c3f5f302c386c60ae102805fe = $(`<div id="html_9408528c3f5f302c386c60ae102805fe" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Place Albert 1er - St Charles...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">12</span><br>                 • Places libres: <span style="color: blue;">14</span><br>                 • Capacité totale: 27<br>                 • Taux d'occupation: <span style="color: green;">44.4%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6168, 3.8734             </div>             </div>`)[0];
+                popup_88eecff18134d0eb6b193ce607514169.setContent(html_9408528c3f5f302c386c60ae102805fe);
+            
+        
+
+        marker_8b0a63f74d7b666e3e7c3bcec2d5a067.bindPopup(popup_88eecff18134d0eb6b193ce607514169)
+        ;
+
+        
+    
+    
+            marker_8b0a63f74d7b666e3e7c3bcec2d5a067.bindTooltip(
+                `<div>
+                     Place Albert 1er - St Charles... - 12 vélos
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_8b0a63f74d7b666e3e7c3bcec2d5a067.setIcon(icon_f2063b84f6231e3c2b3464779d35803b);
+            
+    
+            var marker_cf3daac8d4e57952f844bb763fe9bd61 = L.marker(
+                [43.610989, 3.873345],
+                {
+}
+            ).addTo(map_5857499c4c6c4547667febc5faecaceb);
+        
+    
+            var icon_ae786bf52385e4b5d02171247d4e51ab = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_6c3874929b59c0e1a1dfe8cfb31e95f6 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_4e870b472691442668b8f3f6d1b42fcd = $(`<div id="html_4e870b472691442668b8f3f6d1b42fcd" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Foch...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">1</span><br>                 • Places libres: <span style="color: blue;">7</span><br>                 • Capacité totale: 8<br>                 • Taux d'occupation: <span style="color: green;">12.5%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6110, 3.8733             </div>             </div>`)[0];
+                popup_6c3874929b59c0e1a1dfe8cfb31e95f6.setContent(html_4e870b472691442668b8f3f6d1b42fcd);
+            
+        
+
+        marker_cf3daac8d4e57952f844bb763fe9bd61.bindPopup(popup_6c3874929b59c0e1a1dfe8cfb31e95f6)
+        ;
+
+        
+    
+    
+            marker_cf3daac8d4e57952f844bb763fe9bd61.bindTooltip(
+                `<div>
+                     Foch... - 1 vélos
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_cf3daac8d4e57952f844bb763fe9bd61.setIcon(icon_ae786bf52385e4b5d02171247d4e51ab);
+            
+    
+            var marker_6b69cf0c653f200dce0f11ea248ba0dc = L.marker(
+                [43.609935, 3.877208],
+                {
+}
+            ).addTo(map_5857499c4c6c4547667febc5faecaceb);
+        
+    
+            var icon_1ac44cbf6b1a0dec7acaba8ffbb86b1f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4086ab9959e28063dddb66e1b4e9d136 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_8e4ed175c6158c1f72eea4701ea67ac8 = $(`<div id="html_8e4ed175c6158c1f72eea4701ea67ac8" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Halles Castellane...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">0</span><br>                 • Places libres: <span style="color: blue;">12</span><br>                 • Capacité totale: 12<br>                 • Taux d'occupation: <span style="color: green;">0.0%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6099, 3.8772             </div>             </div>`)[0];
+                popup_4086ab9959e28063dddb66e1b4e9d136.setContent(html_8e4ed175c6158c1f72eea4701ea67ac8);
+            
+        
+
+        marker_6b69cf0c653f200dce0f11ea248ba0dc.bindPopup(popup_4086ab9959e28063dddb66e1b4e9d136)
+        ;
+
+        
+    
+    
+            marker_6b69cf0c653f200dce0f11ea248ba0dc.bindTooltip(
                 `<div>
                      Halles Castellane... - 0 vélos
                  </div>`,
@@ -432,47 +432,47 @@
             );
         
     
-                marker_3c089c9f5b65364bfc16fc1bcfdc8234.setIcon(icon_f4b1de1954950335f5b22a3127240c16);
+                marker_6b69cf0c653f200dce0f11ea248ba0dc.setIcon(icon_1ac44cbf6b1a0dec7acaba8ffbb86b1f);
             
     
-            var marker_3133eaa2eb0a32390f6978b2d686929d = L.marker(
+            var marker_0635495381ba0f118d90b080f38343f2 = L.marker(
                 [43.606301, 3.87724],
                 {
 }
-            ).addTo(map_40d2faaf6be218ccb065a8e1ad1e7ca7);
+            ).addTo(map_5857499c4c6c4547667febc5faecaceb);
         
     
-            var icon_185c4c8b6479297b6e279c731f81b0fb = L.AwesomeMarkers.icon(
+            var icon_a41c1cacc1651cb7c8d862ef7d0c9481 = L.AwesomeMarkers.icon(
                 {
-  "markerColor": "green",
+  "markerColor": "red",
   "iconColor": "white",
-  "icon": "ok-sign",
+  "icon": "exclamation-sign",
   "prefix": "glyphicon",
   "extraClasses": "fa-rotate-0",
 }
             );
         
     
-        var popup_fae4affd240ee9f48e0e310aef0853b9 = L.popup({
+        var popup_cb0a23dc273943f6b5b5416668e366a1 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_7100c1e90e60eb841d69a2b7b94ba0c7 = $(`<div id="html_7100c1e90e60eb841d69a2b7b94ba0c7" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Observatoire...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">4</span><br>                 • Places libres: <span style="color: blue;">2</span><br>                 • Capacité totale: 8<br>                 • Taux d'occupation: <span style="color: green;">50.0%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6063, 3.8772             </div>             </div>`)[0];
-                popup_fae4affd240ee9f48e0e310aef0853b9.setContent(html_7100c1e90e60eb841d69a2b7b94ba0c7);
+                var html_227b838f51998c896aaba30c71fd5122 = $(`<div id="html_227b838f51998c896aaba30c71fd5122" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Observatoire...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">7</span><br>                 • Places libres: <span style="color: blue;">0</span><br>                 • Capacité totale: 8<br>                 • Taux d'occupation: <span style="color: red;">87.5%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6063, 3.8772             </div>             </div>`)[0];
+                popup_cb0a23dc273943f6b5b5416668e366a1.setContent(html_227b838f51998c896aaba30c71fd5122);
             
         
 
-        marker_3133eaa2eb0a32390f6978b2d686929d.bindPopup(popup_fae4affd240ee9f48e0e310aef0853b9)
+        marker_0635495381ba0f118d90b080f38343f2.bindPopup(popup_cb0a23dc273943f6b5b5416668e366a1)
         ;
 
         
     
     
-            marker_3133eaa2eb0a32390f6978b2d686929d.bindTooltip(
+            marker_0635495381ba0f118d90b080f38343f2.bindTooltip(
                 `<div>
-                     Observatoire... - 4 vélos
+                     Observatoire... - 7 vélos
                  </div>`,
                 {
   "sticky": true,
@@ -480,17 +480,17 @@
             );
         
     
-                marker_3133eaa2eb0a32390f6978b2d686929d.setIcon(icon_185c4c8b6479297b6e279c731f81b0fb);
+                marker_0635495381ba0f118d90b080f38343f2.setIcon(icon_a41c1cacc1651cb7c8d862ef7d0c9481);
             
     
-            var marker_b691b5501b12a1b9c1e8898046f74944 = L.marker(
+            var marker_f900ffa294fd79cb7e2a0855bddf4a0c = L.marker(
                 [43.603038, 3.875796],
                 {
 }
-            ).addTo(map_40d2faaf6be218ccb065a8e1ad1e7ca7);
+            ).addTo(map_5857499c4c6c4547667febc5faecaceb);
         
     
-            var icon_4c0bfa6195a10ad6053a3c9d4fdb108f = L.AwesomeMarkers.icon(
+            var icon_eab283e4736446adc0974d1101f9e68c = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -501,26 +501,26 @@
             );
         
     
-        var popup_7069cbd2db552bc9176a9f61d16fbfc6 = L.popup({
+        var popup_192c27d1416c9d2cf33691ff3b20e9a0 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_e71d413955565093924e7ead81791d7d = $(`<div id="html_e71d413955565093924e7ead81791d7d" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Rondelet...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">7</span><br>                 • Places libres: <span style="color: blue;">9</span><br>                 • Capacité totale: 16<br>                 • Taux d'occupation: <span style="color: green;">43.8%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6030, 3.8758             </div>             </div>`)[0];
-                popup_7069cbd2db552bc9176a9f61d16fbfc6.setContent(html_e71d413955565093924e7ead81791d7d);
+                var html_d2185285bcaa8eeb45428c1993624d09 = $(`<div id="html_d2185285bcaa8eeb45428c1993624d09" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Rondelet...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">6</span><br>                 • Places libres: <span style="color: blue;">10</span><br>                 • Capacité totale: 16<br>                 • Taux d'occupation: <span style="color: green;">37.5%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6030, 3.8758             </div>             </div>`)[0];
+                popup_192c27d1416c9d2cf33691ff3b20e9a0.setContent(html_d2185285bcaa8eeb45428c1993624d09);
             
         
 
-        marker_b691b5501b12a1b9c1e8898046f74944.bindPopup(popup_7069cbd2db552bc9176a9f61d16fbfc6)
+        marker_f900ffa294fd79cb7e2a0855bddf4a0c.bindPopup(popup_192c27d1416c9d2cf33691ff3b20e9a0)
         ;
 
         
     
     
-            marker_b691b5501b12a1b9c1e8898046f74944.bindTooltip(
+            marker_f900ffa294fd79cb7e2a0855bddf4a0c.bindTooltip(
                 `<div>
-                     Rondelet... - 7 vélos
+                     Rondelet... - 6 vélos
                  </div>`,
                 {
   "sticky": true,
@@ -528,17 +528,17 @@
             );
         
     
-                marker_b691b5501b12a1b9c1e8898046f74944.setIcon(icon_4c0bfa6195a10ad6053a3c9d4fdb108f);
+                marker_f900ffa294fd79cb7e2a0855bddf4a0c.setIcon(icon_eab283e4736446adc0974d1101f9e68c);
             
     
-            var marker_5eb533ec9f31ff1d87df6e178e985e71 = L.marker(
+            var marker_e5653e9558fcf46cdd62acb0ad0dab12 = L.marker(
                 [43.608491, 3.868389],
                 {
 }
-            ).addTo(map_40d2faaf6be218ccb065a8e1ad1e7ca7);
+            ).addTo(map_5857499c4c6c4547667febc5faecaceb);
         
     
-            var icon_fa8c3109277cdd3585d8d197d77f5937 = L.AwesomeMarkers.icon(
+            var icon_95494af38435684efbb70edbe6e110f3 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "blue",
   "iconColor": "white",
@@ -549,24 +549,24 @@
             );
         
     
-        var popup_0a7751b625a0ebcbbc854eed77aabb3c = L.popup({
+        var popup_a3d5f8ae5c54ea99e169fcf5d4385a0e = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_bca9356a122a789066ffb0a83fe55cac = $(`<div id="html_bca9356a122a789066ffb0a83fe55cac" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Plan Cabanes...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">3</span><br>                 • Places libres: <span style="color: blue;">9</span><br>                 • Capacité totale: 12<br>                 • Taux d'occupation: <span style="color: green;">25.0%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6085, 3.8684             </div>             </div>`)[0];
-                popup_0a7751b625a0ebcbbc854eed77aabb3c.setContent(html_bca9356a122a789066ffb0a83fe55cac);
+                var html_6b57931125d08ace1eff8c48955d6370 = $(`<div id="html_6b57931125d08ace1eff8c48955d6370" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Plan Cabanes...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">3</span><br>                 • Places libres: <span style="color: blue;">9</span><br>                 • Capacité totale: 12<br>                 • Taux d'occupation: <span style="color: green;">25.0%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6085, 3.8684             </div>             </div>`)[0];
+                popup_a3d5f8ae5c54ea99e169fcf5d4385a0e.setContent(html_6b57931125d08ace1eff8c48955d6370);
             
         
 
-        marker_5eb533ec9f31ff1d87df6e178e985e71.bindPopup(popup_0a7751b625a0ebcbbc854eed77aabb3c)
+        marker_e5653e9558fcf46cdd62acb0ad0dab12.bindPopup(popup_a3d5f8ae5c54ea99e169fcf5d4385a0e)
         ;
 
         
     
     
-            marker_5eb533ec9f31ff1d87df6e178e985e71.bindTooltip(
+            marker_e5653e9558fcf46cdd62acb0ad0dab12.bindTooltip(
                 `<div>
                      Plan Cabanes... - 3 vélos
                  </div>`,
@@ -576,17 +576,17 @@
             );
         
     
-                marker_5eb533ec9f31ff1d87df6e178e985e71.setIcon(icon_fa8c3109277cdd3585d8d197d77f5937);
+                marker_e5653e9558fcf46cdd62acb0ad0dab12.setIcon(icon_95494af38435684efbb70edbe6e110f3);
             
     
-            var marker_ca0710a4f1c819f107fc7b750a615185 = L.marker(
+            var marker_9ecbb974e50084ccbd49d038c7cfc770 = L.marker(
                 [43.622629, 3.868375],
                 {
 }
-            ).addTo(map_40d2faaf6be218ccb065a8e1ad1e7ca7);
+            ).addTo(map_5857499c4c6c4547667febc5faecaceb);
         
     
-            var icon_e528b1f5b842e7bf8ce4ff1612707003 = L.AwesomeMarkers.icon(
+            var icon_2e8191921d813e9269d8d966538be3bd = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -597,24 +597,24 @@
             );
         
     
-        var popup_950876d1743891dfcc33a3951c952cbf = L.popup({
+        var popup_88a564efdb5ea1ae5a9b4a8468ce1a11 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_b7389fbf37c0f0f38f54b394bebdae60 = $(`<div id="html_b7389fbf37c0f0f38f54b394bebdae60" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Boutonnet...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">5</span><br>                 • Places libres: <span style="color: blue;">7</span><br>                 • Capacité totale: 12<br>                 • Taux d'occupation: <span style="color: green;">41.7%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6226, 3.8684             </div>             </div>`)[0];
-                popup_950876d1743891dfcc33a3951c952cbf.setContent(html_b7389fbf37c0f0f38f54b394bebdae60);
+                var html_5629a187581d5adf8fe74020c57feaab = $(`<div id="html_5629a187581d5adf8fe74020c57feaab" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Boutonnet...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">5</span><br>                 • Places libres: <span style="color: blue;">7</span><br>                 • Capacité totale: 12<br>                 • Taux d'occupation: <span style="color: green;">41.7%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6226, 3.8684             </div>             </div>`)[0];
+                popup_88a564efdb5ea1ae5a9b4a8468ce1a11.setContent(html_5629a187581d5adf8fe74020c57feaab);
             
         
 
-        marker_ca0710a4f1c819f107fc7b750a615185.bindPopup(popup_950876d1743891dfcc33a3951c952cbf)
+        marker_9ecbb974e50084ccbd49d038c7cfc770.bindPopup(popup_88a564efdb5ea1ae5a9b4a8468ce1a11)
         ;
 
         
     
     
-            marker_ca0710a4f1c819f107fc7b750a615185.bindTooltip(
+            marker_9ecbb974e50084ccbd49d038c7cfc770.bindTooltip(
                 `<div>
                      Boutonnet... - 5 vélos
                  </div>`,
@@ -624,209 +624,17 @@
             );
         
     
-                marker_ca0710a4f1c819f107fc7b750a615185.setIcon(icon_e528b1f5b842e7bf8ce4ff1612707003);
+                marker_9ecbb974e50084ccbd49d038c7cfc770.setIcon(icon_2e8191921d813e9269d8d966538be3bd);
             
     
-            var marker_57d70a8eb05708ccf96fa0df2c52ecf8 = L.marker(
+            var marker_bbc36359babdc710665bad12ffbfc032 = L.marker(
                 [43.616742, 3.87998],
                 {
 }
-            ).addTo(map_40d2faaf6be218ccb065a8e1ad1e7ca7);
+            ).addTo(map_5857499c4c6c4547667febc5faecaceb);
         
     
-            var icon_4e1a86044da8b2850ab163bce04e69c6 = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "red",
-  "iconColor": "white",
-  "icon": "exclamation-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_49e4e4921261cbb3c6c1566680160b57 = L.popup({
-  "maxWidth": 300,
-});
-
-        
-            
-                var html_1e38e873ce74bacfe3158d9969478c27 = $(`<div id="html_1e38e873ce74bacfe3158d9969478c27" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Emile Combes...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">7</span><br>                 • Places libres: <span style="color: blue;">1</span><br>                 • Capacité totale: 8<br>                 • Taux d'occupation: <span style="color: red;">87.5%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6167, 3.8800             </div>             </div>`)[0];
-                popup_49e4e4921261cbb3c6c1566680160b57.setContent(html_1e38e873ce74bacfe3158d9969478c27);
-            
-        
-
-        marker_57d70a8eb05708ccf96fa0df2c52ecf8.bindPopup(popup_49e4e4921261cbb3c6c1566680160b57)
-        ;
-
-        
-    
-    
-            marker_57d70a8eb05708ccf96fa0df2c52ecf8.bindTooltip(
-                `<div>
-                     Emile Combes... - 7 vélos
-                 </div>`,
-                {
-  "sticky": true,
-}
-            );
-        
-    
-                marker_57d70a8eb05708ccf96fa0df2c52ecf8.setIcon(icon_4e1a86044da8b2850ab163bce04e69c6);
-            
-    
-            var marker_94146185e9345ad931ecd17ee99a886e = L.marker(
-                [43.616698, 3.884981],
-                {
-}
-            ).addTo(map_40d2faaf6be218ccb065a8e1ad1e7ca7);
-        
-    
-            var icon_1f9ee65d77554b085b34f3ffae95b127 = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "green",
-  "iconColor": "white",
-  "icon": "ok-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_bd21c49674f77fa9243f309d24e15f7f = L.popup({
-  "maxWidth": 300,
-});
-
-        
-            
-                var html_4d41e85ef66195e4f5c15e4cfe8fd61e = $(`<div id="html_4d41e85ef66195e4f5c15e4cfe8fd61e" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Beaux-Arts...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">7</span><br>                 • Places libres: <span style="color: blue;">9</span><br>                 • Capacité totale: 16<br>                 • Taux d'occupation: <span style="color: green;">43.8%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6167, 3.8850             </div>             </div>`)[0];
-                popup_bd21c49674f77fa9243f309d24e15f7f.setContent(html_4d41e85ef66195e4f5c15e4cfe8fd61e);
-            
-        
-
-        marker_94146185e9345ad931ecd17ee99a886e.bindPopup(popup_bd21c49674f77fa9243f309d24e15f7f)
-        ;
-
-        
-    
-    
-            marker_94146185e9345ad931ecd17ee99a886e.bindTooltip(
-                `<div>
-                     Beaux-Arts... - 7 vélos
-                 </div>`,
-                {
-  "sticky": true,
-}
-            );
-        
-    
-                marker_94146185e9345ad931ecd17ee99a886e.setIcon(icon_1f9ee65d77554b085b34f3ffae95b127);
-            
-    
-            var marker_306b62a0449ae33f9938e4794f406911 = L.marker(
-                [43.618692, 3.893844],
-                {
-}
-            ).addTo(map_40d2faaf6be218ccb065a8e1ad1e7ca7);
-        
-    
-            var icon_d29d451e944b91ec3535cac02977f9b3 = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "red",
-  "iconColor": "white",
-  "icon": "exclamation-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_f787a2ec74b70800580d988513616732 = L.popup({
-  "maxWidth": 300,
-});
-
-        
-            
-                var html_e41dc0fb1c496e2b3fc25cbb0fbf0cc3 = $(`<div id="html_e41dc0fb1c496e2b3fc25cbb0fbf0cc3" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Les Aubes...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">7</span><br>                 • Places libres: <span style="color: blue;">1</span><br>                 • Capacité totale: 8<br>                 • Taux d'occupation: <span style="color: red;">87.5%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6187, 3.8938             </div>             </div>`)[0];
-                popup_f787a2ec74b70800580d988513616732.setContent(html_e41dc0fb1c496e2b3fc25cbb0fbf0cc3);
-            
-        
-
-        marker_306b62a0449ae33f9938e4794f406911.bindPopup(popup_f787a2ec74b70800580d988513616732)
-        ;
-
-        
-    
-    
-            marker_306b62a0449ae33f9938e4794f406911.bindTooltip(
-                `<div>
-                     Les Aubes... - 7 vélos
-                 </div>`,
-                {
-  "sticky": true,
-}
-            );
-        
-    
-                marker_306b62a0449ae33f9938e4794f406911.setIcon(icon_d29d451e944b91ec3535cac02977f9b3);
-            
-    
-            var marker_7922580ae81b1c96a8fed730062ee6e0 = L.marker(
-                [43.607942, 3.890634],
-                {
-}
-            ).addTo(map_40d2faaf6be218ccb065a8e1ad1e7ca7);
-        
-    
-            var icon_62f3669330de30807efb4f382da4b3f4 = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "green",
-  "iconColor": "white",
-  "icon": "ok-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_b37d90d73561770616e28bbbf42f7015 = L.popup({
-  "maxWidth": 300,
-});
-
-        
-            
-                var html_856c8213ee9cbb0cd73e87f0a69982d5 = $(`<div id="html_856c8213ee9cbb0cd73e87f0a69982d5" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Antigone centre...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">5</span><br>                 • Places libres: <span style="color: blue;">7</span><br>                 • Capacité totale: 12<br>                 • Taux d'occupation: <span style="color: green;">41.7%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6079, 3.8906             </div>             </div>`)[0];
-                popup_b37d90d73561770616e28bbbf42f7015.setContent(html_856c8213ee9cbb0cd73e87f0a69982d5);
-            
-        
-
-        marker_7922580ae81b1c96a8fed730062ee6e0.bindPopup(popup_b37d90d73561770616e28bbbf42f7015)
-        ;
-
-        
-    
-    
-            marker_7922580ae81b1c96a8fed730062ee6e0.bindTooltip(
-                `<div>
-                     Antigone centre... - 5 vélos
-                 </div>`,
-                {
-  "sticky": true,
-}
-            );
-        
-    
-                marker_7922580ae81b1c96a8fed730062ee6e0.setIcon(icon_62f3669330de30807efb4f382da4b3f4);
-            
-    
-            var marker_6f8be9a14ea2a65c8932711d009bed47 = L.marker(
-                [43.608218, 3.89314],
-                {
-}
-            ).addTo(map_40d2faaf6be218ccb065a8e1ad1e7ca7);
-        
-    
-            var icon_daf21087c3394225c0d478a49a81d879 = L.AwesomeMarkers.icon(
+            var icon_720aef8284ed57158efde6c7cf6e37fa = L.AwesomeMarkers.icon(
                 {
   "markerColor": "blue",
   "iconColor": "white",
@@ -837,24 +645,216 @@
             );
         
     
-        var popup_dc118d0497c306a5abfe6d231b460da2 = L.popup({
+        var popup_b426aa55824f3602a9564feeaea4f30a = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_97723506b458ef829d44e55b38f99b6e = $(`<div id="html_97723506b458ef829d44e55b38f99b6e" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Médiathèque Emile Zola...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">0</span><br>                 • Places libres: <span style="color: blue;">16</span><br>                 • Capacité totale: 16<br>                 • Taux d'occupation: <span style="color: green;">0.0%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6082, 3.8931             </div>             </div>`)[0];
-                popup_dc118d0497c306a5abfe6d231b460da2.setContent(html_97723506b458ef829d44e55b38f99b6e);
+                var html_0633e2117fd7ac16636555d67a9a113c = $(`<div id="html_0633e2117fd7ac16636555d67a9a113c" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Emile Combes...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">2</span><br>                 • Places libres: <span style="color: blue;">6</span><br>                 • Capacité totale: 8<br>                 • Taux d'occupation: <span style="color: green;">25.0%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6167, 3.8800             </div>             </div>`)[0];
+                popup_b426aa55824f3602a9564feeaea4f30a.setContent(html_0633e2117fd7ac16636555d67a9a113c);
             
         
 
-        marker_6f8be9a14ea2a65c8932711d009bed47.bindPopup(popup_dc118d0497c306a5abfe6d231b460da2)
+        marker_bbc36359babdc710665bad12ffbfc032.bindPopup(popup_b426aa55824f3602a9564feeaea4f30a)
         ;
 
         
     
     
-            marker_6f8be9a14ea2a65c8932711d009bed47.bindTooltip(
+            marker_bbc36359babdc710665bad12ffbfc032.bindTooltip(
+                `<div>
+                     Emile Combes... - 2 vélos
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_bbc36359babdc710665bad12ffbfc032.setIcon(icon_720aef8284ed57158efde6c7cf6e37fa);
+            
+    
+            var marker_381be72a690088552e2e186844bcdfbb = L.marker(
+                [43.616698, 3.884981],
+                {
+}
+            ).addTo(map_5857499c4c6c4547667febc5faecaceb);
+        
+    
+            var icon_4c42b67d61e97346a40d756bc1f26504 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "ok-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5427a526aab3569e6645f41bca7bfba1 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_e7269bdd5536020171b929025194c659 = $(`<div id="html_e7269bdd5536020171b929025194c659" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Beaux-Arts...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">5</span><br>                 • Places libres: <span style="color: blue;">11</span><br>                 • Capacité totale: 16<br>                 • Taux d'occupation: <span style="color: green;">31.2%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6167, 3.8850             </div>             </div>`)[0];
+                popup_5427a526aab3569e6645f41bca7bfba1.setContent(html_e7269bdd5536020171b929025194c659);
+            
+        
+
+        marker_381be72a690088552e2e186844bcdfbb.bindPopup(popup_5427a526aab3569e6645f41bca7bfba1)
+        ;
+
+        
+    
+    
+            marker_381be72a690088552e2e186844bcdfbb.bindTooltip(
+                `<div>
+                     Beaux-Arts... - 5 vélos
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_381be72a690088552e2e186844bcdfbb.setIcon(icon_4c42b67d61e97346a40d756bc1f26504);
+            
+    
+            var marker_a20b9c8aadaad7a254c3c17d297c4c0a = L.marker(
+                [43.618692, 3.893844],
+                {
+}
+            ).addTo(map_5857499c4c6c4547667febc5faecaceb);
+        
+    
+            var icon_ec57a2b3986909af6e6e19fb947646f2 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "warning-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_295bbd09707ef580fdc746fc55b39dd4 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_f0d3a6ca9781545db3d29c8e7a8b720e = $(`<div id="html_f0d3a6ca9781545db3d29c8e7a8b720e" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Les Aubes...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">6</span><br>                 • Places libres: <span style="color: blue;">2</span><br>                 • Capacité totale: 8<br>                 • Taux d'occupation: <span style="color: orange;">75.0%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6187, 3.8938             </div>             </div>`)[0];
+                popup_295bbd09707ef580fdc746fc55b39dd4.setContent(html_f0d3a6ca9781545db3d29c8e7a8b720e);
+            
+        
+
+        marker_a20b9c8aadaad7a254c3c17d297c4c0a.bindPopup(popup_295bbd09707ef580fdc746fc55b39dd4)
+        ;
+
+        
+    
+    
+            marker_a20b9c8aadaad7a254c3c17d297c4c0a.bindTooltip(
+                `<div>
+                     Les Aubes... - 6 vélos
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_a20b9c8aadaad7a254c3c17d297c4c0a.setIcon(icon_ec57a2b3986909af6e6e19fb947646f2);
+            
+    
+            var marker_536e6d2e81dda3211354b881ec8f7d1a = L.marker(
+                [43.607942, 3.890634],
+                {
+}
+            ).addTo(map_5857499c4c6c4547667febc5faecaceb);
+        
+    
+            var icon_efe410e5acf60a27bc2383c0241277d3 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "ok-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_feb7ab7ac6d3d76617c561eccc9830a6 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_9158453830f058f11bed5fdeceb20e18 = $(`<div id="html_9158453830f058f11bed5fdeceb20e18" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Antigone centre...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">6</span><br>                 • Places libres: <span style="color: blue;">6</span><br>                 • Capacité totale: 12<br>                 • Taux d'occupation: <span style="color: green;">50.0%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6079, 3.8906             </div>             </div>`)[0];
+                popup_feb7ab7ac6d3d76617c561eccc9830a6.setContent(html_9158453830f058f11bed5fdeceb20e18);
+            
+        
+
+        marker_536e6d2e81dda3211354b881ec8f7d1a.bindPopup(popup_feb7ab7ac6d3d76617c561eccc9830a6)
+        ;
+
+        
+    
+    
+            marker_536e6d2e81dda3211354b881ec8f7d1a.bindTooltip(
+                `<div>
+                     Antigone centre... - 6 vélos
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_536e6d2e81dda3211354b881ec8f7d1a.setIcon(icon_efe410e5acf60a27bc2383c0241277d3);
+            
+    
+            var marker_e6462c0a1742a359290bed23be133d38 = L.marker(
+                [43.608218, 3.89314],
+                {
+}
+            ).addTo(map_5857499c4c6c4547667febc5faecaceb);
+        
+    
+            var icon_401c1d9a5d39db7f0f95f9e30da43e0e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_886419e00545b069775201ff53869b73 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_afc2562c9bbf492d6c0e7e17c775de36 = $(`<div id="html_afc2562c9bbf492d6c0e7e17c775de36" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Médiathèque Emile Zola...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">0</span><br>                 • Places libres: <span style="color: blue;">16</span><br>                 • Capacité totale: 16<br>                 • Taux d'occupation: <span style="color: green;">0.0%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6082, 3.8931             </div>             </div>`)[0];
+                popup_886419e00545b069775201ff53869b73.setContent(html_afc2562c9bbf492d6c0e7e17c775de36);
+            
+        
+
+        marker_e6462c0a1742a359290bed23be133d38.bindPopup(popup_886419e00545b069775201ff53869b73)
+        ;
+
+        
+    
+    
+            marker_e6462c0a1742a359290bed23be133d38.bindTooltip(
                 `<div>
                      Médiathèque Emile Zola... - 0 vélos
                  </div>`,
@@ -864,17 +864,17 @@
             );
         
     
-                marker_6f8be9a14ea2a65c8932711d009bed47.setIcon(icon_daf21087c3394225c0d478a49a81d879);
+                marker_e6462c0a1742a359290bed23be133d38.setIcon(icon_401c1d9a5d39db7f0f95f9e30da43e0e);
             
     
-            var marker_380b01b9804271f403643a641b5750d3 = L.marker(
+            var marker_508280996efc2503d78bf4b3dc8ec4bb = L.marker(
                 [43.607859, 3.886644],
                 {
 }
-            ).addTo(map_40d2faaf6be218ccb065a8e1ad1e7ca7);
+            ).addTo(map_5857499c4c6c4547667febc5faecaceb);
         
     
-            var icon_f31dd9664b46d71b77afffcdcd2ca422 = L.AwesomeMarkers.icon(
+            var icon_737d060abd5f399f1140112d9dac30f3 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "red",
   "iconColor": "white",
@@ -885,26 +885,26 @@
             );
         
     
-        var popup_4d0bac67dcc042d0599679e62b87fd39 = L.popup({
+        var popup_808d44b42b1440af43e024d2038117c6 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_1f28f6fb3f88c7879ace86034ce264ec = $(`<div id="html_1f28f6fb3f88c7879ace86034ce264ec" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Nombre d Or...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">15</span><br>                 • Places libres: <span style="color: blue;">1</span><br>                 • Capacité totale: 16<br>                 • Taux d'occupation: <span style="color: red;">93.8%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6079, 3.8866             </div>             </div>`)[0];
-                popup_4d0bac67dcc042d0599679e62b87fd39.setContent(html_1f28f6fb3f88c7879ace86034ce264ec);
+                var html_8464bf9fa685986ace1defd1cd4f644a = $(`<div id="html_8464bf9fa685986ace1defd1cd4f644a" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Nombre d Or...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">13</span><br>                 • Places libres: <span style="color: blue;">3</span><br>                 • Capacité totale: 16<br>                 • Taux d'occupation: <span style="color: red;">81.2%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6079, 3.8866             </div>             </div>`)[0];
+                popup_808d44b42b1440af43e024d2038117c6.setContent(html_8464bf9fa685986ace1defd1cd4f644a);
             
         
 
-        marker_380b01b9804271f403643a641b5750d3.bindPopup(popup_4d0bac67dcc042d0599679e62b87fd39)
+        marker_508280996efc2503d78bf4b3dc8ec4bb.bindPopup(popup_808d44b42b1440af43e024d2038117c6)
         ;
 
         
     
     
-            marker_380b01b9804271f403643a641b5750d3.bindTooltip(
+            marker_508280996efc2503d78bf4b3dc8ec4bb.bindTooltip(
                 `<div>
-                     Nombre d Or... - 15 vélos
+                     Nombre d Or... - 13 vélos
                  </div>`,
                 {
   "sticky": true,
@@ -912,17 +912,17 @@
             );
         
     
-                marker_380b01b9804271f403643a641b5750d3.setIcon(icon_f31dd9664b46d71b77afffcdcd2ca422);
+                marker_508280996efc2503d78bf4b3dc8ec4bb.setIcon(icon_737d060abd5f399f1140112d9dac30f3);
             
     
-            var marker_3debec1aaa3b8fc10a790a0a02d41f70 = L.marker(
+            var marker_f23e2cdbd42650e7fee10db2218631f7 = L.marker(
                 [43.614642, 3.877648],
                 {
 }
-            ).addTo(map_40d2faaf6be218ccb065a8e1ad1e7ca7);
+            ).addTo(map_5857499c4c6c4547667febc5faecaceb);
         
     
-            var icon_b4d707298d779f95ed14fa9e47acf22c = L.AwesomeMarkers.icon(
+            var icon_07e89846961de3343281db8342855a83 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -933,26 +933,26 @@
             );
         
     
-        var popup_51bbf862ba09e7f5470294d9281dd200 = L.popup({
+        var popup_e408a00f9c980ba230eb3c37066e0420 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_6c0d41aa0da8e0e9c54204655d9c27a5 = $(`<div id="html_6c0d41aa0da8e0e9c54204655d9c27a5" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Louis Blanc...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">6</span><br>                 • Places libres: <span style="color: blue;">10</span><br>                 • Capacité totale: 16<br>                 • Taux d'occupation: <span style="color: green;">37.5%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6146, 3.8776             </div>             </div>`)[0];
-                popup_51bbf862ba09e7f5470294d9281dd200.setContent(html_6c0d41aa0da8e0e9c54204655d9c27a5);
+                var html_5bbe129f24e96c4f3f346a417e8f823a = $(`<div id="html_5bbe129f24e96c4f3f346a417e8f823a" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Louis Blanc...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">5</span><br>                 • Places libres: <span style="color: blue;">11</span><br>                 • Capacité totale: 16<br>                 • Taux d'occupation: <span style="color: green;">31.2%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6146, 3.8776             </div>             </div>`)[0];
+                popup_e408a00f9c980ba230eb3c37066e0420.setContent(html_5bbe129f24e96c4f3f346a417e8f823a);
             
         
 
-        marker_3debec1aaa3b8fc10a790a0a02d41f70.bindPopup(popup_51bbf862ba09e7f5470294d9281dd200)
+        marker_f23e2cdbd42650e7fee10db2218631f7.bindPopup(popup_e408a00f9c980ba230eb3c37066e0420)
         ;
 
         
     
     
-            marker_3debec1aaa3b8fc10a790a0a02d41f70.bindTooltip(
+            marker_f23e2cdbd42650e7fee10db2218631f7.bindTooltip(
                 `<div>
-                     Louis Blanc... - 6 vélos
+                     Louis Blanc... - 5 vélos
                  </div>`,
                 {
   "sticky": true,
@@ -960,17 +960,17 @@
             );
         
     
-                marker_3debec1aaa3b8fc10a790a0a02d41f70.setIcon(icon_b4d707298d779f95ed14fa9e47acf22c);
+                marker_f23e2cdbd42650e7fee10db2218631f7.setIcon(icon_07e89846961de3343281db8342855a83);
             
     
-            var marker_6c0f7296b3734482220e491c98a0e76a = L.marker(
+            var marker_6ff7ed4697b2abbb5ddc901293edc311 = L.marker(
                 [43.607106, 3.870693],
                 {
 }
-            ).addTo(map_40d2faaf6be218ccb065a8e1ad1e7ca7);
+            ).addTo(map_5857499c4c6c4547667febc5faecaceb);
         
     
-            var icon_91defa50c970514db727fdf44a740b8f = L.AwesomeMarkers.icon(
+            var icon_fe272e6d31fe5c6ff68a03274952f6e7 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "blue",
   "iconColor": "white",
@@ -981,24 +981,24 @@
             );
         
     
-        var popup_12bafb91b87104e227082848ec7ddb34 = L.popup({
+        var popup_3fdb2c43d2570d96a42ebd8bb29d115f = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_ee2aed6ee8d259c4e075c941f5cf2199 = $(`<div id="html_ee2aed6ee8d259c4e075c941f5cf2199" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Gambetta...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">2</span><br>                 • Places libres: <span style="color: blue;">6</span><br>                 • Capacité totale: 8<br>                 • Taux d'occupation: <span style="color: green;">25.0%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6071, 3.8707             </div>             </div>`)[0];
-                popup_12bafb91b87104e227082848ec7ddb34.setContent(html_ee2aed6ee8d259c4e075c941f5cf2199);
+                var html_4400b24934539d1b4770439c6be6517c = $(`<div id="html_4400b24934539d1b4770439c6be6517c" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Gambetta...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">2</span><br>                 • Places libres: <span style="color: blue;">6</span><br>                 • Capacité totale: 8<br>                 • Taux d'occupation: <span style="color: green;">25.0%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6071, 3.8707             </div>             </div>`)[0];
+                popup_3fdb2c43d2570d96a42ebd8bb29d115f.setContent(html_4400b24934539d1b4770439c6be6517c);
             
         
 
-        marker_6c0f7296b3734482220e491c98a0e76a.bindPopup(popup_12bafb91b87104e227082848ec7ddb34)
+        marker_6ff7ed4697b2abbb5ddc901293edc311.bindPopup(popup_3fdb2c43d2570d96a42ebd8bb29d115f)
         ;
 
         
     
     
-            marker_6c0f7296b3734482220e491c98a0e76a.bindTooltip(
+            marker_6ff7ed4697b2abbb5ddc901293edc311.bindTooltip(
                 `<div>
                      Gambetta... - 2 vélos
                  </div>`,
@@ -1008,17 +1008,17 @@
             );
         
     
-                marker_6c0f7296b3734482220e491c98a0e76a.setIcon(icon_91defa50c970514db727fdf44a740b8f);
+                marker_6ff7ed4697b2abbb5ddc901293edc311.setIcon(icon_fe272e6d31fe5c6ff68a03274952f6e7);
             
     
-            var marker_78f5872954a4db2d6e24af94a938c3a6 = L.marker(
+            var marker_17422ba867bea38c86a4fc0ff36faa53 = L.marker(
                 [43.60032, 3.89851],
                 {
 }
-            ).addTo(map_40d2faaf6be218ccb065a8e1ad1e7ca7);
+            ).addTo(map_5857499c4c6c4547667febc5faecaceb);
         
     
-            var icon_c6c81d615930a41172dc2002595daae9 = L.AwesomeMarkers.icon(
+            var icon_1eaebe00fd1faf407e4fa943486dd31e = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -1029,26 +1029,26 @@
             );
         
     
-        var popup_da356210956897361d2e198949223f06 = L.popup({
+        var popup_08282fcc2333bd8d0fa36ddd42087ca1 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_473708916342d21e668ab709ee75cc56 = $(`<div id="html_473708916342d21e668ab709ee75cc56" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Port Marianne...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">7</span><br>                 • Places libres: <span style="color: blue;">9</span><br>                 • Capacité totale: 16<br>                 • Taux d'occupation: <span style="color: green;">43.8%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6003, 3.8985             </div>             </div>`)[0];
-                popup_da356210956897361d2e198949223f06.setContent(html_473708916342d21e668ab709ee75cc56);
+                var html_15535818afdc65a0368cf2832323a5e0 = $(`<div id="html_15535818afdc65a0368cf2832323a5e0" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4>🚴 Port Marianne...</h4>                 <hr>                 <b>📊 État actuel:</b><br>                 • Vélos disponibles: <span style="color: green;">8</span><br>                 • Places libres: <span style="color: blue;">8</span><br>                 • Capacité totale: 16<br>                 • Taux d'occupation: <span style="color: green;">50.0%</span><br>                 <hr>                 <b>🔧 Statut:</b> working<br>                 <b>📍 Coordonnées:</b> 43.6003, 3.8985             </div>             </div>`)[0];
+                popup_08282fcc2333bd8d0fa36ddd42087ca1.setContent(html_15535818afdc65a0368cf2832323a5e0);
             
         
 
-        marker_78f5872954a4db2d6e24af94a938c3a6.bindPopup(popup_da356210956897361d2e198949223f06)
+        marker_17422ba867bea38c86a4fc0ff36faa53.bindPopup(popup_08282fcc2333bd8d0fa36ddd42087ca1)
         ;
 
         
     
     
-            marker_78f5872954a4db2d6e24af94a938c3a6.bindTooltip(
+            marker_17422ba867bea38c86a4fc0ff36faa53.bindTooltip(
                 `<div>
-                     Port Marianne... - 7 vélos
+                     Port Marianne... - 8 vélos
                  </div>`,
                 {
   "sticky": true,
@@ -1056,11 +1056,11 @@
             );
         
     
-                marker_78f5872954a4db2d6e24af94a938c3a6.setIcon(icon_c6c81d615930a41172dc2002595daae9);
+                marker_17422ba867bea38c86a4fc0ff36faa53.setIcon(icon_1eaebe00fd1faf407e4fa943486dd31e);
             
     
-            var heat_map_03599f5852756d2d132348bf2c848190 = L.heatLayer(
-                [[43.605366, 3.881346, 2], [43.608148, 3.878778, 8], [43.599088, 3.894866, 4], [43.613989, 3.8816, 2], [43.616768, 3.873375, 5], [43.610989, 3.873345, 3], [43.609935, 3.877208, 0], [43.606301, 3.87724, 4], [43.603038, 3.875796, 7], [43.608491, 3.868389, 3], [43.622629, 3.868375, 5], [43.616742, 3.87998, 7], [43.616698, 3.884981, 7], [43.618692, 3.893844, 7], [43.607942, 3.890634, 5], [43.608218, 3.89314, 0], [43.607859, 3.886644, 15], [43.614642, 3.877648, 6], [43.607106, 3.870693, 2], [43.60032, 3.89851, 7]],
+            var heat_map_7186f161d0e347df9b21bec1fb3b8dc6 = L.heatLayer(
+                [[43.605366, 3.881346, 8], [43.608148, 3.878778, 3], [43.599088, 3.894866, 5], [43.613989, 3.8816, 3], [43.616768, 3.873375, 12], [43.610989, 3.873345, 1], [43.609935, 3.877208, 0], [43.606301, 3.87724, 7], [43.603038, 3.875796, 6], [43.608491, 3.868389, 3], [43.622629, 3.868375, 5], [43.616742, 3.87998, 2], [43.616698, 3.884981, 5], [43.618692, 3.893844, 6], [43.607942, 3.890634, 6], [43.608218, 3.89314, 0], [43.607859, 3.886644, 13], [43.614642, 3.877648, 5], [43.607106, 3.870693, 2], [43.60032, 3.89851, 8]],
                 {
   "minOpacity": 0.5,
   "maxZoom": 18,
@@ -1076,26 +1076,26 @@
             );
         
     
-            heat_map_03599f5852756d2d132348bf2c848190.addTo(map_40d2faaf6be218ccb065a8e1ad1e7ca7);
+            heat_map_7186f161d0e347df9b21bec1fb3b8dc6.addTo(map_5857499c4c6c4547667febc5faecaceb);
         
     
-            var layer_control_6c8b4fe5ac816445f0efafc4601e401b_layers = {
+            var layer_control_a42be62715c2a6ebce36227f4c336de2_layers = {
                 base_layers : {
-                    "openstreetmap" : tile_layer_212f24c98aac1b9f97c4badd8c885267,
+                    "openstreetmap" : tile_layer_d68b31542e5779b5f8f5c2af8b206fca,
                 },
                 overlays :  {
-                    "macro_element_03599f5852756d2d132348bf2c848190" : heat_map_03599f5852756d2d132348bf2c848190,
+                    "macro_element_7186f161d0e347df9b21bec1fb3b8dc6" : heat_map_7186f161d0e347df9b21bec1fb3b8dc6,
                 },
             };
-            let layer_control_6c8b4fe5ac816445f0efafc4601e401b = L.control.layers(
-                layer_control_6c8b4fe5ac816445f0efafc4601e401b_layers.base_layers,
-                layer_control_6c8b4fe5ac816445f0efafc4601e401b_layers.overlays,
+            let layer_control_a42be62715c2a6ebce36227f4c336de2 = L.control.layers(
+                layer_control_a42be62715c2a6ebce36227f4c336de2_layers.base_layers,
+                layer_control_a42be62715c2a6ebce36227f4c336de2_layers.overlays,
                 {
   "position": "topright",
   "collapsed": true,
   "autoZIndex": true,
 }
-            ).addTo(map_40d2faaf6be218ccb065a8e1ad1e7ca7);
+            ).addTo(map_5857499c4c6c4547667febc5faecaceb);
 
         
 </script>
